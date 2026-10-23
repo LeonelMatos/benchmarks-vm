@@ -1,0 +1,26 @@
+grupo,metrica,unidade,n,media,desvio,min,max,tempo_s
+CPU 1 thread (sysbench),eventos,ev/s,10,1929.818,1.511,1927.720,1932.030,300.2
+CPU 1 thread (sysbench),lat p95,ms,10,0.557,0.007,0.540,0.560,300.2
+CPU 8 threads (sysbench),eventos,ev/s,10,14369.255,178.782,14215.310,14809.160,300.2
+CPU 8 threads (sysbench),lat p95,ms,10,0.576,0.007,0.560,0.580,300.2
+RAM (RAMspeed INTmem 8 GB),media,MB/s,10,9079.242,30.802,9010.040,9122.060,191.2
+RAM (STREAM 8 threads),Copy,MB/s,10,9207.130,46.521,9129.800,9281.700,18.6
+RAM (STREAM 8 threads),Scale,MB/s,10,9092.970,25.050,9045.700,9128.300,18.6
+RAM (STREAM 8 threads),Add,MB/s,10,10460.780,49.329,10381.100,10548.100,18.6
+RAM (STREAM 8 threads),Triad,MB/s,10,10500.250,55.636,10408.100,10562.000,18.6
+Disco (IOzone 1 GB bloco 4k),escrita,MiB/s,10,2.790,0.260,2.300,3.100,11342.4
+Disco (IOzone 1 GB bloco 4k),leitura,MiB/s,10,4.630,0.067,4.500,4.700,11342.4
+Disco seq. escrita (fio 1M),largura,MiB/s,10,5.260,0.624,4.400,6.100,380.1
+Disco seq. escrita (fio 1M),IOPS,IOPS,10,4.500,0.527,4.000,5.000,380.1
+Disco seq. escrita (fio 1M),lat p99,us,10,6429028.700,1724870.496,4731174.000,9059696.000,380.1
+Disco seq. leitura (fio 1M),largura,MiB/s,10,104.440,0.237,103.900,104.800,355.2
+Disco seq. leitura (fio 1M),IOPS,IOPS,10,103.900,0.316,103.000,104.000,355.2
+Disco seq. leitura (fio 1M),lat p99,us,10,397619.700,5609.905,387973.000,404750.000,355.2
+Disco aleat. escrita (fio 4k),largura,MiB/s,10,0.800,0.194,0.400,1.000,381.1
+Disco aleat. escrita (fio 4k),IOPS,IOPS,10,200.600,51.857,89.000,254.000,381.1
+Disco aleat. escrita (fio 4k),lat p99,us,10,2366425.900,2409066.837,566231.000,7012876.000,381.1
+Disco aleat. leitura (fio 4k),largura,MiB/s,10,16.100,0.200,15.900,16.400,354.5
+Disco aleat. leitura (fio 4k),IOPS,IOPS,10,4122.600,50.377,4068.000,4207.000,354.5
+Disco aleat. leitura (fio 4k),lat p99,us,10,37853.100,958.701,36962.000,39583.000,354.5
+Rede cliente->servidor (iperf3),recebido,Mbit/s,10,940.200,2.530,933.000,941.000,121.1
+Rede servidor->cliente (iperf3),recebido,Mbit/s,10,929.900,5.343,923.000,939.000,121.0

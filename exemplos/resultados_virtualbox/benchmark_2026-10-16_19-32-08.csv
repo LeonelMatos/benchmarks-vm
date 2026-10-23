@@ -1,0 +1,26 @@
+grupo,metrica,unidade,n,media,desvio,min,max,tempo_s
+CPU 1 thread (sysbench),eventos,ev/s,10,1884.884,11.323,1854.170,1893.790,300.2
+CPU 1 thread (sysbench),lat p95,ms,10,0.542,0.004,0.540,0.550,300.2
+CPU 8 threads (sysbench),eventos,ev/s,10,13272.039,248.323,13097.250,13887.790,300.2
+CPU 8 threads (sysbench),lat p95,ms,10,0.622,0.010,0.600,0.630,300.2
+RAM (RAMspeed INTmem 8 GB),media,MB/s,10,19075.488,665.895,18017.960,20272.000,115.1
+RAM (STREAM 8 threads),Copy,MB/s,10,30464.250,178.153,30195.200,30751.400,4.6
+RAM (STREAM 8 threads),Scale,MB/s,10,19058.730,110.502,18890.100,19288.600,4.6
+RAM (STREAM 8 threads),Add,MB/s,10,20863.490,136.074,20696.900,21097.200,4.6
+RAM (STREAM 8 threads),Triad,MB/s,10,20929.700,99.508,20800.800,21093.200,4.6
+Disco (IOzone 1 GB bloco 4k),escrita,MiB/s,10,67.370,1.717,64.400,69.000,724.3
+Disco (IOzone 1 GB bloco 4k),leitura,MiB/s,10,47.240,4.426,34.800,49.900,724.3
+Disco seq. escrita (fio 1M),largura,MiB/s,10,713.300,213.347,480.300,1020.600,417.4
+Disco seq. escrita (fio 1M),IOPS,IOPS,10,712.700,213.352,480.000,1020.000,417.4
+Disco seq. escrita (fio 1M),lat p99,us,10,36096.700,21576.194,14090.000,69730.000,417.4
+Disco seq. leitura (fio 1M),largura,MiB/s,10,1472.050,90.721,1295.700,1615.500,385.5
+Disco seq. leitura (fio 1M),IOPS,IOPS,10,1471.400,90.857,1295.000,1615.000,385.5
+Disco seq. leitura (fio 1M),lat p99,us,10,14676.300,15457.394,7962.000,58458.000,385.5
+Disco aleat. escrita (fio 4k),largura,MiB/s,10,182.120,8.041,163.000,192.500,450.7
+Disco aleat. escrita (fio 4k),IOPS,IOPS,10,46624.800,2057.021,41731.000,49283.000,450.7
+Disco aleat. escrita (fio 4k),lat p99,us,10,921.800,87.493,774.000,1036.000,450.7
+Disco aleat. leitura (fio 4k),largura,MiB/s,10,218.010,4.227,210.900,223.100,568.5
+Disco aleat. leitura (fio 4k),IOPS,IOPS,10,55812.000,1080.250,53993.000,57106.000,568.5
+Disco aleat. leitura (fio 4k),lat p99,us,10,750.600,14.879,724.000,774.000,568.5
+Rede cliente->servidor (iperf3),recebido,Mbit/s,10,936.100,4.557,929.000,941.000,139.0
+Rede servidor->cliente (iperf3),recebido,Mbit/s,10,654.200,451.448,0.000,939.000,143.0

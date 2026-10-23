@@ -1,0 +1,237 @@
+Benchmark iniciado em: 2026-10-17 18:11:42
+Máquina: ubuntu-server
+
+==================================================
+INFORMAÇÃO DO SISTEMA
+==================================================
+Kernel: 7.0.0-38-generic
+Virtualização: none
+Último arranque + tempo de boot (a partir do arranque do kernel): 2026-10-17 18:05:10
+Startup finished in 4.343s (firmware) + 8.735s (loader) + 2.909s (kernel) + 1.766s (initrd) + 8.611s (userspace) = 26.367s 
+graphical.target reached after 8.611s in userspace.
+CPU(s):                                  16
+Model name:                              AMD Ryzen 7 5700U with Radeon Graphics
+Thread(s) per core:                      2
+Core(s) per socket:                      8
+CPU(s) scaling MHz:                      43%
+L3 cache:                                8 MiB (2 instances)
+
+               total        used        free      shared  buff/cache   available
+Mem:            22Gi       743Mi        21Gi       1.5Mi       380Mi        21Gi
+Swap:          8.0Gi          0B       8.0Gi
+
+NAME      SIZE ROTA MODEL
+loop0    66.8M    0 
+loop1    66.8M    0 
+loop2     1.5M    0 
+loop3    50.1M    0 
+loop4     1.5M    0 
+loop5    44.7M    0 
+nvme0n1 953.9G    0 Lexar SSD NM620 1TB
+
+Disco de teste: /dev/nvme0n1p3 (ext4), 66G livres
+
+==================================================
+PROGRAMAS
+==================================================
+
+  gcc            gcc (Ubuntu 15.2.0-16ubuntu1) 15.2.0
+  sysbench       sysbench 1.0.20
+  iozone         Version 3.508
+  fio            fio-3.41
+  iperf3         iperf 3.20 (cJSON 1.7.15)
+  STREAM         Revision: $Id: stream.c,v 5.10 2013/01/17 16:01:06 mccalpin Exp mccalpin $
+  RAMspeed/SMP   RAMspeed/SMP (GENERIC) v3.5.0 by Rhett M. Hollander and Paul V. Bolotoff, 2002-09
+
+Repetições por teste: 10
+Duração mínima: 33m 20s só com o sysbench e o fio; os outros testes acrescentam mais.
+
+== CPU 1 thread (sysbench) ==
+  [1/10]  eventos 1934 ev/s   lat p95 0.530 ms   (30 s)
+  [2/10]  eventos 1932 ev/s   lat p95 0.530 ms   (30 s)
+  [3/10]  eventos 1932 ev/s   lat p95 0.530 ms   (30 s)
+  [4/10]  eventos 1932 ev/s   lat p95 0.530 ms   (30 s)
+  [5/10]  eventos 1934 ev/s   lat p95 0.530 ms   (30 s)
+  [6/10]  eventos 1934 ev/s   lat p95 0.530 ms   (30 s)
+  [7/10]  eventos 1933 ev/s   lat p95 0.530 ms   (30 s)
+  [8/10]  eventos 1932 ev/s   lat p95 0.530 ms   (30 s)
+  [9/10]  eventos 1934 ev/s   lat p95 0.530 ms   (30 s)
+  [10/10]  eventos 1934 ev/s   lat p95 0.530 ms   (30 s)
+  Tempo deste teste: 5m 00s
+
+== CPU 16 threads (sysbench) ==
+  [1/10]  eventos 15594 ev/s   lat p95 1.04 ms   (30 s)
+  [2/10]  eventos 15148 ev/s   lat p95 1.06 ms   (30 s)
+  [3/10]  eventos 15055 ev/s   lat p95 1.06 ms   (30 s)
+  [4/10]  eventos 14930 ev/s   lat p95 1.08 ms   (30 s)
+  [5/10]  eventos 14841 ev/s   lat p95 1.08 ms   (30 s)
+  [6/10]  eventos 14763 ev/s   lat p95 1.08 ms   (30 s)
+  [7/10]  eventos 14661 ev/s   lat p95 1.10 ms   (30 s)
+  [8/10]  eventos 14621 ev/s   lat p95 1.10 ms   (30 s)
+  [9/10]  eventos 14622 ev/s   lat p95 1.10 ms   (30 s)
+  [10/10]  eventos 14561 ev/s   lat p95 1.10 ms   (30 s)
+  Tempo deste teste: 5m 00s
+
+== RAM (RAMspeed INTmem 8 GB) ==
+  [1/10]  media 10352 MB/s   (16 s)
+  [2/10]  media 10397 MB/s   (16 s)
+  [3/10]  media 10351 MB/s   (16 s)
+  [4/10]  media 10339 MB/s   (16 s)
+  [5/10]  media 10347 MB/s   (16 s)
+  [6/10]  media 10332 MB/s   (16 s)
+  [7/10]  media 10319 MB/s   (16 s)
+  [8/10]  media 10335 MB/s   (16 s)
+  [9/10]  media 10339 MB/s   (16 s)
+  [10/10]  media 10311 MB/s   (16 s)
+  Tempo deste teste: 2m 46s
+
+== RAM (STREAM 16 threads) ==
+  [1/10]  Copy 13574 MB/s   Scale 8573 MB/s   Add 9273 MB/s   Triad 9206 MB/s   (0.9 s)
+  [2/10]  Copy 13455 MB/s   Scale 8573 MB/s   Add 9249 MB/s   Triad 9208 MB/s   (0.9 s)
+  [3/10]  Copy 13461 MB/s   Scale 8579 MB/s   Add 9266 MB/s   Triad 9221 MB/s   (0.9 s)
+  [4/10]  Copy 13566 MB/s   Scale 8576 MB/s   Add 9249 MB/s   Triad 9204 MB/s   (0.9 s)
+  [5/10]  Copy 13647 MB/s   Scale 8579 MB/s   Add 9244 MB/s   Triad 9213 MB/s   (0.9 s)
+  [6/10]  Copy 13688 MB/s   Scale 8577 MB/s   Add 9245 MB/s   Triad 9200 MB/s   (0.9 s)
+  [7/10]  Copy 13723 MB/s   Scale 8571 MB/s   Add 9253 MB/s   Triad 9216 MB/s   (0.9 s)
+  [8/10]  Copy 13779 MB/s   Scale 8597 MB/s   Add 9251 MB/s   Triad 9218 MB/s   (0.9 s)
+  [9/10]  Copy 13808 MB/s   Scale 8600 MB/s   Add 9268 MB/s   Triad 9220 MB/s   (0.9 s)
+  [10/10]  Copy 13754 MB/s   Scale 8601 MB/s   Add 9274 MB/s   Triad 9229 MB/s   (0.9 s)
+  Tempo deste teste: 9.5 s
+
+== Disco (IOzone 1 GB bloco 4k) ==
+  [1/10]  escrita 145.1 MiB/s   leitura 198.7 MiB/s   (22 s)
+  [2/10]  escrita 152.4 MiB/s   leitura 205.3 MiB/s   (21 s)
+  [3/10]  escrita 143.0 MiB/s   leitura 204.4 MiB/s   (22 s)
+  [4/10]  escrita 141.7 MiB/s   leitura 203.4 MiB/s   (22 s)
+  [5/10]  escrita 153.7 MiB/s   leitura 204.1 MiB/s   (21 s)
+  [6/10]  escrita 150.4 MiB/s   leitura 205.3 MiB/s   (21 s)
+  [7/10]  escrita 151.9 MiB/s   leitura 205.4 MiB/s   (21 s)
+  [8/10]  escrita 150.7 MiB/s   leitura 205.4 MiB/s   (23 s)
+  [9/10]  escrita 147.8 MiB/s   leitura 204.1 MiB/s   (22 s)
+  [10/10]  escrita 151.8 MiB/s   leitura 205.1 MiB/s   (21 s)
+  Tempo deste teste: 3m 41s
+
+== Disco seq. escrita (fio 1M) ==
+  [1/10]  largura 2855 MiB/s   IOPS 2854 IOPS   lat p99 9109 us   (35 s)
+  [2/10]  largura 2855 MiB/s   IOPS 2855 IOPS   lat p99 9109 us   (35 s)
+  [3/10]  largura 2859 MiB/s   IOPS 2858 IOPS   lat p99 8847 us   (35 s)
+  [4/10]  largura 2857 MiB/s   IOPS 2856 IOPS   lat p99 8847 us   (35 s)
+  [5/10]  largura 2857 MiB/s   IOPS 2856 IOPS   lat p99 8847 us   (35 s)
+  [6/10]  largura 2860 MiB/s   IOPS 2859 IOPS   lat p99 8847 us   (35 s)
+  [7/10]  largura 2858 MiB/s   IOPS 2857 IOPS   lat p99 8847 us   (35 s)
+  [8/10]  largura 762.7 MiB/s   IOPS 762.0 IOPS   lat p99 12255 us   (35 s)
+  [9/10]  largura 1594 MiB/s   IOPS 1594 IOPS   lat p99 16056 us   (35 s)
+  [10/10]  largura 723.8 MiB/s   IOPS 723.0 IOPS   lat p99 26345 us   (35 s)
+  Tempo deste teste: 5m 55s
+
+== Disco seq. leitura (fio 1M) ==
+  [1/10]  largura 3453 MiB/s   IOPS 3452 IOPS   lat p99 2703 us   (35 s)
+  [2/10]  largura 2939 MiB/s   IOPS 2938 IOPS   lat p99 4882 us   (35 s)
+  [3/10]  largura 2483 MiB/s   IOPS 2482 IOPS   lat p99 6127 us   (35 s)
+  [4/10]  largura 1732 MiB/s   IOPS 1731 IOPS   lat p99 5079 us   (35 s)
+  [5/10]  largura 2397 MiB/s   IOPS 2396 IOPS   lat p99 6258 us   (35 s)
+  [6/10]  largura 1731 MiB/s   IOPS 1731 IOPS   lat p99 5079 us   (35 s)
+  [7/10]  largura 2175 MiB/s   IOPS 2174 IOPS   lat p99 52690 us   (35 s)
+  [8/10]  largura 2527 MiB/s   IOPS 2526 IOPS   lat p99 6520 us   (35 s)
+  [9/10]  largura 2263 MiB/s   IOPS 2262 IOPS   lat p99 63176 us   (35 s)
+  [10/10]  largura 2368 MiB/s   IOPS 2367 IOPS   lat p99 6455 us   (35 s)
+  Tempo deste teste: 5m 55s
+
+== Disco aleat. escrita (fio 4k) ==
+  [1/10]  largura 454.1 MiB/s   IOPS 116249 IOPS   lat p99 1957 us   (35 s)
+  [2/10]  largura 391.8 MiB/s   IOPS 100306 IOPS   lat p99 1925 us   (35 s)
+  [3/10]  largura 411.4 MiB/s   IOPS 105326 IOPS   lat p99 1892 us   (35 s)
+  [4/10]  largura 430.4 MiB/s   IOPS 110187 IOPS   lat p99 1859 us   (35 s)
+  [5/10]  largura 456.7 MiB/s   IOPS 116921 IOPS   lat p99 1859 us   (35 s)
+  [6/10]  largura 444.4 MiB/s   IOPS 113771 IOPS   lat p99 1843 us   (35 s)
+  [7/10]  largura 459.4 MiB/s   IOPS 117607 IOPS   lat p99 1859 us   (35 s)
+  [8/10]  largura 485.1 MiB/s   IOPS 124191 IOPS   lat p99 1843 us   (35 s)
+  [9/10]  largura 420.9 MiB/s   IOPS 107755 IOPS   lat p99 1843 us   (35 s)
+  [10/10]  largura 440.9 MiB/s   IOPS 112868 IOPS   lat p99 1859 us   (35 s)
+  Tempo deste teste: 5m 55s
+
+== Disco aleat. leitura (fio 4k) ==
+  [1/10]  largura 402.7 MiB/s   IOPS 103097 IOPS   lat p99 1843 us   (35 s)
+  [2/10]  largura 308.7 MiB/s   IOPS 79020 IOPS   lat p99 2072 us   (35 s)
+  [3/10]  largura 365.4 MiB/s   IOPS 93536 IOPS   lat p99 2023 us   (35 s)
+  [4/10]  largura 394.7 MiB/s   IOPS 101053 IOPS   lat p99 1859 us   (35 s)
+  [5/10]  largura 386.5 MiB/s   IOPS 98946 IOPS   lat p99 1875 us   (35 s)
+  [6/10]  largura 480.2 MiB/s   IOPS 122942 IOPS   lat p99 1073 us   (35 s)
+  [7/10]  largura 352.5 MiB/s   IOPS 90240 IOPS   lat p99 1990 us   (35 s)
+  [8/10]  largura 574.6 MiB/s   IOPS 147093 IOPS   lat p99 1036 us   (35 s)
+  [9/10]  largura 360.3 MiB/s   IOPS 92246 IOPS   lat p99 1957 us   (35 s)
+  [10/10]  largura 513.0 MiB/s   IOPS 131334 IOPS   lat p99 569.0 us   (35 s)
+  Tempo deste teste: 5m 55s
+
+== Rede cliente->servidor (iperf3) ==
+  [1/10]  recebido 941.0 Mbit/s   (12 s)
+  [2/10]  recebido 941.0 Mbit/s   (12 s)
+  [3/10]  recebido 941.0 Mbit/s   (12 s)
+  [4/10]  recebido 941.0 Mbit/s   (12 s)
+  [5/10]  recebido 941.0 Mbit/s   (12 s)
+  [6/10]  recebido 941.0 Mbit/s   (12 s)
+  [7/10]  recebido 941.0 Mbit/s   (12 s)
+  [8/10]  recebido 941.0 Mbit/s   (12 s)
+  [9/10]  recebido 941.0 Mbit/s   (12 s)
+  [10/10]  recebido 941.0 Mbit/s   (12 s)
+  Tempo deste teste: 2m 01s
+
+== Rede servidor->cliente (iperf3) ==
+  [1/10]  recebido 935.0 Mbit/s   (12 s)
+  [2/10]  recebido 934.0 Mbit/s   (12 s)
+  [3/10]  recebido 926.0 Mbit/s   (12 s)
+  [4/10]  recebido 933.0 Mbit/s   (12 s)
+  [5/10]  recebido 919.0 Mbit/s   (12 s)
+  [6/10]  recebido 938.0 Mbit/s   (12 s)
+  [7/10]  recebido 937.0 Mbit/s   (12 s)
+  [8/10]  recebido 931.0 Mbit/s   (12 s)
+  [9/10]  recebido 940.0 Mbit/s   (12 s)
+  [10/10]  recebido 934.0 Mbit/s   (12 s)
+  Tempo deste teste: 2m 01s
+
+==================================================
+RESUMO FINAL
+==================================================
+    Métrica           n     Média    Desvio      CV %       Mín       Máx
+  CPU 1 thread (sysbench)  [5m 00s]
+    eventos          10      1933      1.03       0.1      1932      1934
+    lat p95          10     0.530     0.000       0.0     0.530     0.530
+  CPU 16 threads (sysbench)  [5m 00s]
+    eventos          10     14880     318.5       2.1     14561     15594
+    lat p95          10      1.08     0.021       1.9      1.04      1.10
+  RAM (RAMspeed INTmem 8 GB)  [2m 46s]
+    media            10     10342     23.46       0.2     10311     10397
+  RAM (STREAM 16 threads)  [9.5 s]
+    Copy             10     13646     127.0       0.9     13455     13808
+    Scale            10      8582     11.73       0.1      8571      8601
+    Add              10      9257     11.81       0.1      9244      9274
+    Triad            10      9214      8.74       0.1      9200      9229
+  Disco (IOzone 1 GB bloco 4k)  [3m 42s]
+    escrita          10     148.8      4.22       2.8     141.7     153.7
+    leitura          10     204.1      2.03       1.0     198.7     205.4
+  Disco seq. escrita (fio 1M)  [5m 55s]
+    largura          10      2308     914.0      39.6     723.8      2860
+    IOPS             10      2307     913.9      39.6     723.0      2859
+    lat p99          10     11711      5656      48.3      8847     26345
+  Disco seq. leitura (fio 1M)  [5m 55s]
+    largura          10      2407     514.9      21.4      1731      3453
+    IOPS             10      2406     514.8      21.4      1731      3452
+    lat p99          10     15897     22321     140.4      2703     63176
+  Disco aleat. escrita (fio 4k)  [5m 55s]
+    largura          10     439.5     26.88       6.1     391.8     485.1
+    IOPS             10    112518      6881       6.1    100306    124191
+    lat p99          10      1874     38.87       2.1      1843      1957
+  Disco aleat. leitura (fio 4k)  [5m 55s]
+    largura          10     413.9     82.56      19.9     308.7     574.6
+    IOPS             10    105951     21137      19.9     79020    147093
+    lat p99          10      1630     530.5      32.6     569.0      2072
+  Rede cliente->servidor (iperf3)  [2m 01s]
+    recebido         10     941.0     0.000       0.0     941.0     941.0
+  Rede servidor->cliente (iperf3)  [2m 01s]
+    recebido         10     932.7      6.18       0.7     919.0     940.0
+
+  Tempo total: 44m 22s
+  Desvio = desvio padrão entre repetições; CV = desvio/média (acima de 5% os
+  resultados são pouco estáveis). Nas latências, menor é melhor.
+
+Benchmark terminado em: 2026-10-17 18:56:04

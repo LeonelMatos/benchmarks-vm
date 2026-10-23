@@ -1,0 +1,272 @@
+Benchmark iniciado em: 2026-10-17 18:13:41
+Máquina: Heavensdoor
+
+==================================================
+INFORMAÇÃO DO SISTEMA
+==================================================
+Kernel: 7.0.0-38-generic
+Virtualização: none
+Último arranque + tempo de boot (a partir do arranque do kernel): 2026-10-17 18:01:13
+Startup finished in 7.469s (firmware) + 5.543s (loader) + 3.820s (kernel) + 10.960s (userspace) = 27.793s 
+graphical.target reached after 9.921s in userspace.
+CPU(s):                                  16
+Model name:                              AMD Ryzen 7 5700U with Radeon Graphics
+Thread(s) per core:                      2
+Core(s) per socket:                      8
+CPU(s) scaling MHz:                      63%
+L3 cache:                                8 MiB (2 instances)
+
+               total        used        free      shared  buff/cache   available
+Mem:            22Gi       2.0Gi        17Gi        27Mi       2.8Gi        20Gi
+Swap:           19Gi          0B        19Gi
+
+NAME      SIZE ROTA MODEL
+loop0       4K    0 
+loop1   523.6M    0 
+loop2   517.6M    0 
+loop3    63.8M    0 
+loop4      74M    0 
+loop5    63.8M    0 
+loop6      74M    0 
+loop7    66.8M    0 
+loop8    66.8M    0 
+loop9    60.1M    0 
+loop10   60.6M    0 
+loop11   14.2M    0 
+loop12   14.2M    0 
+loop13  261.4M    0 
+loop14  262.2M    0 
+loop15   12.7M    0 
+loop16   12.7M    0 
+loop17   19.1M    0 
+loop18   19.1M    0 
+loop19  531.4M    0 
+loop20  531.5M    0 
+loop21  606.1M    0 
+loop22  614.5M    0 
+loop23   91.7M    0 
+loop24     28M    0 
+loop25    402M    0 
+loop26    402M    0 
+loop27   18.8M    0 
+loop28   18.4M    0 
+loop29   11.8M    0 
+loop30   11.8M    0 
+loop31   50.1M    0 
+loop32   44.7M    0 
+loop33    828K    0 
+loop34    828K    0 
+loop35  221.1M    0 
+loop36  222.1M    0 
+zram0    11.2G    0 
+nvme0n1 953.9G    0 Lexar SSD NM620 1TB
+
+Disco de teste: /dev/nvme0n1p2 (ext4), 455G livres
+
+==================================================
+PROGRAMAS
+==================================================
+
+  gcc            gcc (Ubuntu 15.2.0-16ubuntu1) 15.2.0
+  sysbench       sysbench 1.0.20
+  iozone         Version 3.508
+  fio            fio-3.41
+  iperf3         iperf 3.20 (cJSON 1.7.15)
+  STREAM         Revision: $Id: stream.c,v 5.10 2013/01/17 16:01:06 mccalpin Exp mccalpin $
+  RAMspeed/SMP   RAMspeed/SMP (GENERIC) v3.5.0 by Rhett M. Hollander and Paul V. Bolotoff, 2002-09
+
+Repetições por teste: 10
+Duração mínima: 33m 20s só com o sysbench e o fio; os outros testes acrescentam mais.
+
+== CPU 1 thread (sysbench) ==
+  [1/10]  eventos 1982 ev/s   lat p95 0.510 ms   (30 s)
+  [2/10]  eventos 1982 ev/s   lat p95 0.510 ms   (30 s)
+  [3/10]  eventos 1981 ev/s   lat p95 0.510 ms   (30 s)
+  [4/10]  eventos 1981 ev/s   lat p95 0.510 ms   (30 s)
+  [5/10]  eventos 1982 ev/s   lat p95 0.510 ms   (30 s)
+  [6/10]  eventos 1981 ev/s   lat p95 0.510 ms   (30 s)
+  [7/10]  eventos 1982 ev/s   lat p95 0.510 ms   (30 s)
+  [8/10]  eventos 1982 ev/s   lat p95 0.510 ms   (30 s)
+  [9/10]  eventos 1982 ev/s   lat p95 0.510 ms   (30 s)
+  [10/10]  eventos 1982 ev/s   lat p95 0.510 ms   (30 s)
+  Tempo deste teste: 5m 00s
+
+== CPU 16 threads (sysbench) ==
+  [1/10]  eventos 15816 ev/s   lat p95 1.03 ms   (30 s)
+  [2/10]  eventos 15433 ev/s   lat p95 1.04 ms   (30 s)
+  [3/10]  eventos 15305 ev/s   lat p95 1.04 ms   (30 s)
+  [4/10]  eventos 15250 ev/s   lat p95 1.06 ms   (30 s)
+  [5/10]  eventos 15171 ev/s   lat p95 1.08 ms   (30 s)
+  [6/10]  eventos 15161 ev/s   lat p95 1.06 ms   (30 s)
+  [7/10]  eventos 15062 ev/s   lat p95 1.06 ms   (30 s)
+  [8/10]  eventos 15011 ev/s   lat p95 1.08 ms   (30 s)
+  [9/10]  eventos 14974 ev/s   lat p95 1.08 ms   (30 s)
+  [10/10]  eventos 14940 ev/s   lat p95 1.08 ms   (30 s)
+  Tempo deste teste: 5m 00s
+
+== RAM (RAMspeed INTmem 8 GB) ==
+  [1/10]  media 10455 MB/s   (16 s)
+  [2/10]  media 10517 MB/s   (16 s)
+  [3/10]  media 10448 MB/s   (16 s)
+  [4/10]  media 10468 MB/s   (16 s)
+  [5/10]  media 10430 MB/s   (16 s)
+  [6/10]  media 10460 MB/s   (16 s)
+  [7/10]  media 10424 MB/s   (16 s)
+  [8/10]  media 10334 MB/s   (16 s)
+  [9/10]  media 10373 MB/s   (16 s)
+  [10/10]  media 10438 MB/s   (16 s)
+  Tempo deste teste: 2m 45s
+
+== RAM (STREAM 16 threads) ==
+  [1/10]  Copy 13822 MB/s   Scale 8593 MB/s   Add 9358 MB/s   Triad 9269 MB/s   (1.0 s)
+  [2/10]  Copy 13908 MB/s   Scale 8681 MB/s   Add 9369 MB/s   Triad 9338 MB/s   (1.1 s)
+  [3/10]  Copy 13692 MB/s   Scale 8578 MB/s   Add 9386 MB/s   Triad 9280 MB/s   (1.1 s)
+  [4/10]  Copy 13903 MB/s   Scale 8688 MB/s   Add 9388 MB/s   Triad 9330 MB/s   (1.1 s)
+  [5/10]  Copy 13986 MB/s   Scale 8685 MB/s   Add 9408 MB/s   Triad 9368 MB/s   (1.1 s)
+  [6/10]  Copy 13973 MB/s   Scale 8689 MB/s   Add 9379 MB/s   Triad 9361 MB/s   (1.1 s)
+  [7/10]  Copy 13969 MB/s   Scale 8722 MB/s   Add 9405 MB/s   Triad 9340 MB/s   (1.1 s)
+  [8/10]  Copy 13992 MB/s   Scale 8714 MB/s   Add 9426 MB/s   Triad 9387 MB/s   (1.1 s)
+  [9/10]  Copy 14002 MB/s   Scale 8718 MB/s   Add 9419 MB/s   Triad 9350 MB/s   (1.1 s)
+  [10/10]  Copy 14025 MB/s   Scale 8711 MB/s   Add 9430 MB/s   Triad 9377 MB/s   (1.1 s)
+  Tempo deste teste: 10 s
+
+== Disco (IOzone 1 GB bloco 4k) ==
+  [1/10]  escrita 145.7 MiB/s   leitura 229.2 MiB/s   (20 s)
+  [2/10]  escrita 147.9 MiB/s   leitura 240.1 MiB/s   (20 s)
+  [3/10]  escrita 144.8 MiB/s   leitura 241.9 MiB/s   (20 s)
+  [4/10]  escrita 143.8 MiB/s   leitura 240.7 MiB/s   (20 s)
+  [5/10]  escrita 146.3 MiB/s   leitura 241.5 MiB/s   (20 s)
+  [6/10]  escrita 144.6 MiB/s   leitura 241.6 MiB/s   (20 s)
+  [7/10]  escrita 144.9 MiB/s   leitura 244.4 MiB/s   (20 s)
+  [8/10]  escrita 144.0 MiB/s   leitura 235.5 MiB/s   (20 s)
+  [9/10]  escrita 146.2 MiB/s   leitura 241.3 MiB/s   (20 s)
+  [10/10]  escrita 145.5 MiB/s   leitura 244.7 MiB/s   (19 s)
+  Tempo deste teste: 3m 21s
+
+== Disco seq. escrita (fio 1M) ==
+  [1/10]  largura 2854 MiB/s   IOPS 2853 IOPS   lat p99 9109 us   (35 s)
+  [2/10]  largura 2853 MiB/s   IOPS 2852 IOPS   lat p99 9109 us   (35 s)
+  [3/10]  largura 2856 MiB/s   IOPS 2855 IOPS   lat p99 8978 us   (35 s)
+  [4/10]  largura 2856 MiB/s   IOPS 2855 IOPS   lat p99 8847 us   (35 s)
+  [5/10]  largura 2586 MiB/s   IOPS 2585 IOPS   lat p99 10289 us   (35 s)
+  [6/10]  largura 1323 MiB/s   IOPS 1323 IOPS   lat p99 12124 us   (35 s)
+  [7/10]  largura 720.1 MiB/s   IOPS 719.0 IOPS   lat p99 30801 us   (35 s)
+  [8/10]  largura 717.9 MiB/s   IOPS 717.0 IOPS   lat p99 27131 us   (35 s)
+  [9/10]  largura 706.6 MiB/s   IOPS 706.0 IOPS   lat p99 27918 us   (35 s)
+  [10/10]  largura 726.7 MiB/s   IOPS 726.0 IOPS   lat p99 26607 us   (35 s)
+  Tempo deste teste: 5m 55s
+
+== Disco seq. leitura (fio 1M) ==
+  [1/10]  largura 3454 MiB/s   IOPS 3453 IOPS   lat p99 2670 us   (35 s)
+  [2/10]  largura 3447 MiB/s   IOPS 3446 IOPS   lat p99 2703 us   (35 s)
+  [3/10]  largura 3199 MiB/s   IOPS 3198 IOPS   lat p99 4014 us   (35 s)
+  [4/10]  largura 2155 MiB/s   IOPS 2155 IOPS   lat p99 5079 us   (35 s)
+  [5/10]  largura 2497 MiB/s   IOPS 2496 IOPS   lat p99 4947 us   (35 s)
+  [6/10]  largura 2170 MiB/s   IOPS 2169 IOPS   lat p99 5537 us   (35 s)
+  [7/10]  largura 2610 MiB/s   IOPS 2609 IOPS   lat p99 5144 us   (35 s)
+  [8/10]  largura 2684 MiB/s   IOPS 2683 IOPS   lat p99 4882 us   (35 s)
+  [9/10]  largura 2647 MiB/s   IOPS 2646 IOPS   lat p99 5734 us   (35 s)
+  [10/10]  largura 2524 MiB/s   IOPS 2523 IOPS   lat p99 5865 us   (35 s)
+  Tempo deste teste: 5m 55s
+
+== Disco aleat. escrita (fio 4k) ==
+  [1/10]  largura 586.0 MiB/s   IOPS 150006 IOPS   lat p99 1826 us   (35 s)
+  [2/10]  largura 538.6 MiB/s   IOPS 137892 IOPS   lat p99 1941 us   (35 s)
+  [3/10]  largura 533.2 MiB/s   IOPS 136506 IOPS   lat p99 1974 us   (35 s)
+  [4/10]  largura 552.4 MiB/s   IOPS 141425 IOPS   lat p99 1908 us   (35 s)
+  [5/10]  largura 537.6 MiB/s   IOPS 137632 IOPS   lat p99 1957 us   (35 s)
+  [6/10]  largura 549.4 MiB/s   IOPS 140655 IOPS   lat p99 1908 us   (35 s)
+  [7/10]  largura 555.1 MiB/s   IOPS 142095 IOPS   lat p99 1957 us   (35 s)
+  [8/10]  largura 505.4 MiB/s   IOPS 129384 IOPS   lat p99 2072 us   (35 s)
+  [9/10]  largura 419.7 MiB/s   IOPS 107439 IOPS   lat p99 5210 us   (35 s)
+  [10/10]  largura 333.4 MiB/s   IOPS 85347 IOPS   lat p99 6193 us   (35 s)
+  Tempo deste teste: 5m 55s
+
+== Disco aleat. leitura (fio 4k) ==
+  [1/10]  largura 363.6 MiB/s   IOPS 93071 IOPS   lat p99 2072 us   (35 s)
+  [2/10]  largura 369.5 MiB/s   IOPS 94598 IOPS   lat p99 2056 us   (35 s)
+  [3/10]  largura 284.0 MiB/s   IOPS 72700 IOPS   lat p99 2244 us   (35 s)
+  [4/10]  largura 464.0 MiB/s   IOPS 118790 IOPS   lat p99 1892 us   (35 s)
+  [5/10]  largura 313.7 MiB/s   IOPS 80305 IOPS   lat p99 2179 us   (35 s)
+  [6/10]  largura 396.3 MiB/s   IOPS 101464 IOPS   lat p99 2039 us   (35 s)
+  [7/10]  largura 361.9 MiB/s   IOPS 92648 IOPS   lat p99 2179 us   (35 s)
+  [8/10]  largura 246.7 MiB/s   IOPS 63148 IOPS   lat p99 2310 us   (35 s)
+  [9/10]  largura 265.9 MiB/s   IOPS 68080 IOPS   lat p99 2310 us   (35 s)
+  [10/10]  largura 358.2 MiB/s   IOPS 91695 IOPS   lat p99 2113 us   (35 s)
+  Tempo deste teste: 5m 55s
+
+== Rede cliente->servidor (iperf3) ==
+  [1/10]  recebido 941.0 Mbit/s   (12 s)
+  [2/10]  recebido 941.0 Mbit/s   (12 s)
+  [3/10]  recebido 941.0 Mbit/s   (12 s)
+  [4/10]  recebido 941.0 Mbit/s   (12 s)
+  [5/10]  recebido 941.0 Mbit/s   (12 s)
+  [6/10]  recebido 941.0 Mbit/s   (12 s)
+  [7/10]  recebido 941.0 Mbit/s   (12 s)
+  [8/10]  recebido 941.0 Mbit/s   (12 s)
+  [9/10]  recebido 941.0 Mbit/s   (12 s)
+  [10/10]  recebido 941.0 Mbit/s   (12 s)
+  Tempo deste teste: 2m 01s
+
+== Rede servidor->cliente (iperf3) ==
+  [1/10]  recebido 936.0 Mbit/s   (12 s)
+  [2/10]  recebido 915.0 Mbit/s   (12 s)
+  [3/10]  recebido 935.0 Mbit/s   (12 s)
+  [4/10]  recebido 930.0 Mbit/s   (12 s)
+  [5/10]  recebido 928.0 Mbit/s   (12 s)
+  [6/10]  recebido 936.0 Mbit/s   (12 s)
+  [7/10]  recebido 906.0 Mbit/s   (12 s)
+  [8/10]  recebido 940.0 Mbit/s   (12 s)
+  [9/10]  recebido 936.0 Mbit/s   (12 s)
+  [10/10]  FALHOU (ver resultados/benchmark_2026-10-17_18-13-41.log)
+  Tempo deste teste: 1m 49s
+  ATENÇÃO: 1 execução(ões) falharam (ver resultados/benchmark_2026-10-17_18-13-41.log).
+
+==================================================
+RESUMO FINAL
+==================================================
+    Métrica           n     Média    Desvio      CV %       Mín       Máx
+  CPU 1 thread (sysbench)  [5m 00s]
+    eventos          10      1982     0.393       0.0      1981      1982
+    lat p95          10     0.510     0.000       0.0     0.510     0.510
+  CPU 16 threads (sysbench)  [5m 00s]
+    eventos          10     15212     262.8       1.7     14940     15816
+    lat p95          10      1.06     0.019       1.8      1.03      1.08
+  RAM (RAMspeed INTmem 8 GB)  [2m 45s]
+    media            10     10435     50.79       0.5     10334     10517
+  RAM (STREAM 16 threads)  [10 s]
+    Copy             10     13927     102.4       0.7     13692     14025
+    Scale            10      8678     51.12       0.6      8578      8722
+    Add              10      9397     24.26       0.3      9358      9430
+    Triad            10      9340     38.95       0.4      9269      9387
+  Disco (IOzone 1 GB bloco 4k)  [3m 21s]
+    escrita          10     145.4      1.23       0.8     143.8     147.9
+    leitura          10     240.1      4.58       1.9     229.2     244.7
+  Disco seq. escrita (fio 1M)  [5m 55s]
+    largura          10      1820      1053      57.8     706.6      2856
+    IOPS             10      1819      1053      57.9     706.0      2855
+    lat p99          10     17091      9596      56.1      8847     30801
+  Disco seq. leitura (fio 1M)  [5m 55s]
+    largura          10      2739     473.9      17.3      2155      3454
+    IOPS             10      2738     473.8      17.3      2155      3453
+    lat p99          10      4658      1161      24.9      2670      5865
+  Disco aleat. escrita (fio 4k)  [5m 55s]
+    largura          10     511.1     76.47      15.0     333.4     586.0
+    IOPS             10    130838     19578      15.0     85347    150006
+    lat p99          10      2695      1603      59.5      1826      6193
+  Disco aleat. leitura (fio 4k)  [5m 55s]
+    largura          10     342.4     65.62      19.2     246.7     464.0
+    IOPS             10     87650     16801      19.2     63148    118790
+    lat p99          10      2139     131.6       6.1      1892      2310
+  Rede cliente->servidor (iperf3)  [2m 01s]
+    recebido         10     941.0     0.000       0.0     941.0     941.0
+  Rede servidor->cliente (iperf3)  [1m 49s]
+    recebido          9     929.1     11.35       1.2     906.0     940.0
+
+Falharam 1 de 10 execuções: Rede servidor->cliente (iperf3)
+
+  Tempo total: 43m 50s
+  Desvio = desvio padrão entre repetições; CV = desvio/média (acima de 5% os
+  resultados são pouco estáveis). Nas latências, menor é melhor.
+
+Benchmark terminado em: 2026-10-17 18:57:31
