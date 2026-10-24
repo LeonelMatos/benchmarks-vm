@@ -1,0 +1,1833 @@
+##### CPU 1 thread (sysbench) (1/10)
+sysbench 1.0.20 (using system LuaJIT 2.1.1761786044)
+
+Running the test with following options:
+Number of threads: 1
+Initializing random number generator from current time
+
+
+Prime numbers limit: 10000
+
+Initializing worker threads...
+
+Threads started!
+
+CPU speed:
+    events per second:  1812.38
+
+General statistics:
+    total time:                          30.0006s
+    total number of events:              54374
+
+Latency (ms):
+         min:                                    0.53
+         avg:                                    0.55
+         max:                                    0.93
+         95th percentile:                        0.57
+         sum:                                29991.29
+
+Threads fairness:
+    events (avg/stddev):           54374.0000/0.00
+    execution time (avg/stddev):   29.9913/0.00
+
+##### CPU 1 thread (sysbench) (2/10)
+sysbench 1.0.20 (using system LuaJIT 2.1.1761786044)
+
+Running the test with following options:
+Number of threads: 1
+Initializing random number generator from current time
+
+
+Prime numbers limit: 10000
+
+Initializing worker threads...
+
+Threads started!
+
+CPU speed:
+    events per second:  1788.69
+
+General statistics:
+    total time:                          30.0004s
+    total number of events:              53663
+
+Latency (ms):
+         min:                                    0.53
+         avg:                                    0.56
+         max:                                    0.63
+         95th percentile:                        0.58
+         sum:                                29988.31
+
+Threads fairness:
+    events (avg/stddev):           53663.0000/0.00
+    execution time (avg/stddev):   29.9883/0.00
+
+##### CPU 1 thread (sysbench) (3/10)
+sysbench 1.0.20 (using system LuaJIT 2.1.1761786044)
+
+Running the test with following options:
+Number of threads: 1
+Initializing random number generator from current time
+
+
+Prime numbers limit: 10000
+
+Initializing worker threads...
+
+Threads started!
+
+CPU speed:
+    events per second:  1816.67
+
+General statistics:
+    total time:                          30.0004s
+    total number of events:              54503
+
+Latency (ms):
+         min:                                    0.53
+         avg:                                    0.55
+         max:                                    6.76
+         95th percentile:                        0.56
+         sum:                                29991.32
+
+Threads fairness:
+    events (avg/stddev):           54503.0000/0.00
+    execution time (avg/stddev):   29.9913/0.00
+
+##### CPU 1 thread (sysbench) (4/10)
+sysbench 1.0.20 (using system LuaJIT 2.1.1761786044)
+
+Running the test with following options:
+Number of threads: 1
+Initializing random number generator from current time
+
+
+Prime numbers limit: 10000
+
+Initializing worker threads...
+
+Threads started!
+
+CPU speed:
+    events per second:  1793.91
+
+General statistics:
+    total time:                          30.0006s
+    total number of events:              53821
+
+Latency (ms):
+         min:                                    0.53
+         avg:                                    0.56
+         max:                                    0.63
+         95th percentile:                        0.58
+         sum:                                29991.08
+
+Threads fairness:
+    events (avg/stddev):           53821.0000/0.00
+    execution time (avg/stddev):   29.9911/0.00
+
+##### CPU 1 thread (sysbench) (5/10)
+sysbench 1.0.20 (using system LuaJIT 2.1.1761786044)
+
+Running the test with following options:
+Number of threads: 1
+Initializing random number generator from current time
+
+
+Prime numbers limit: 10000
+
+Initializing worker threads...
+
+Threads started!
+
+CPU speed:
+    events per second:  1816.46
+
+General statistics:
+    total time:                          30.0004s
+    total number of events:              54496
+
+Latency (ms):
+         min:                                    0.53
+         avg:                                    0.55
+         max:                                    0.68
+         95th percentile:                        0.57
+         sum:                                29991.90
+
+Threads fairness:
+    events (avg/stddev):           54496.0000/0.00
+    execution time (avg/stddev):   29.9919/0.00
+
+##### CPU 1 thread (sysbench) (6/10)
+sysbench 1.0.20 (using system LuaJIT 2.1.1761786044)
+
+Running the test with following options:
+Number of threads: 1
+Initializing random number generator from current time
+
+
+Prime numbers limit: 10000
+
+Initializing worker threads...
+
+Threads started!
+
+CPU speed:
+    events per second:  1793.00
+
+General statistics:
+    total time:                          30.0002s
+    total number of events:              53792
+
+Latency (ms):
+         min:                                    0.53
+         avg:                                    0.56
+         max:                                    0.65
+         95th percentile:                        0.58
+         sum:                                29990.55
+
+Threads fairness:
+    events (avg/stddev):           53792.0000/0.00
+    execution time (avg/stddev):   29.9905/0.00
+
+##### CPU 1 thread (sysbench) (7/10)
+sysbench 1.0.20 (using system LuaJIT 2.1.1761786044)
+
+Running the test with following options:
+Number of threads: 1
+Initializing random number generator from current time
+
+
+Prime numbers limit: 10000
+
+Initializing worker threads...
+
+Threads started!
+
+CPU speed:
+    events per second:  1794.53
+
+General statistics:
+    total time:                          30.0005s
+    total number of events:              53840
+
+Latency (ms):
+         min:                                    0.53
+         avg:                                    0.56
+         max:                                    0.64
+         95th percentile:                        0.58
+         sum:                                29991.88
+
+Threads fairness:
+    events (avg/stddev):           53840.0000/0.00
+    execution time (avg/stddev):   29.9919/0.00
+
+##### CPU 1 thread (sysbench) (8/10)
+sysbench 1.0.20 (using system LuaJIT 2.1.1761786044)
+
+Running the test with following options:
+Number of threads: 1
+Initializing random number generator from current time
+
+
+Prime numbers limit: 10000
+
+Initializing worker threads...
+
+Threads started!
+
+CPU speed:
+    events per second:  1817.37
+
+General statistics:
+    total time:                          30.0002s
+    total number of events:              54523
+
+Latency (ms):
+         min:                                    0.53
+         avg:                                    0.55
+         max:                                    0.70
+         95th percentile:                        0.56
+         sum:                                29991.69
+
+Threads fairness:
+    events (avg/stddev):           54523.0000/0.00
+    execution time (avg/stddev):   29.9917/0.00
+
+##### CPU 1 thread (sysbench) (9/10)
+sysbench 1.0.20 (using system LuaJIT 2.1.1761786044)
+
+Running the test with following options:
+Number of threads: 1
+Initializing random number generator from current time
+
+
+Prime numbers limit: 10000
+
+Initializing worker threads...
+
+Threads started!
+
+CPU speed:
+    events per second:  1812.17
+
+General statistics:
+    total time:                          30.0003s
+    total number of events:              54369
+
+Latency (ms):
+         min:                                    0.53
+         avg:                                    0.55
+         max:                                    0.65
+         95th percentile:                        0.57
+         sum:                                29990.78
+
+Threads fairness:
+    events (avg/stddev):           54369.0000/0.00
+    execution time (avg/stddev):   29.9908/0.00
+
+##### CPU 1 thread (sysbench) (10/10)
+sysbench 1.0.20 (using system LuaJIT 2.1.1761786044)
+
+Running the test with following options:
+Number of threads: 1
+Initializing random number generator from current time
+
+
+Prime numbers limit: 10000
+
+Initializing worker threads...
+
+Threads started!
+
+CPU speed:
+    events per second:  1820.53
+
+General statistics:
+    total time:                          30.0005s
+    total number of events:              54621
+
+Latency (ms):
+         min:                                    0.53
+         avg:                                    0.55
+         max:                                    0.66
+         95th percentile:                        0.56
+         sum:                                29991.54
+
+Threads fairness:
+    events (avg/stddev):           54621.0000/0.00
+    execution time (avg/stddev):   29.9915/0.00
+
+##### CPU 8 threads (sysbench) (1/10)
+sysbench 1.0.20 (using system LuaJIT 2.1.1761786044)
+
+Running the test with following options:
+Number of threads: 8
+Initializing random number generator from current time
+
+
+Prime numbers limit: 10000
+
+Initializing worker threads...
+
+Threads started!
+
+CPU speed:
+    events per second: 13576.87
+
+General statistics:
+    total time:                          30.0006s
+    total number of events:              407326
+
+Latency (ms):
+         min:                                    0.54
+         avg:                                    0.59
+         max:                                   17.66
+         95th percentile:                        0.61
+         sum:                               239303.24
+
+Threads fairness:
+    events (avg/stddev):           50915.7500/413.57
+    execution time (avg/stddev):   29.9129/0.19
+
+##### CPU 8 threads (sysbench) (2/10)
+sysbench 1.0.20 (using system LuaJIT 2.1.1761786044)
+
+Running the test with following options:
+Number of threads: 8
+Initializing random number generator from current time
+
+
+Prime numbers limit: 10000
+
+Initializing worker threads...
+
+Threads started!
+
+CPU speed:
+    events per second: 13328.63
+
+General statistics:
+    total time:                          30.0005s
+    total number of events:              399878
+
+Latency (ms):
+         min:                                    0.56
+         avg:                                    0.60
+         max:                                    4.61
+         95th percentile:                        0.62
+         sum:                               239872.06
+
+Threads fairness:
+    events (avg/stddev):           49984.7500/173.74
+    execution time (avg/stddev):   29.9840/0.00
+
+##### CPU 8 threads (sysbench) (3/10)
+sysbench 1.0.20 (using system LuaJIT 2.1.1761786044)
+
+Running the test with following options:
+Number of threads: 8
+Initializing random number generator from current time
+
+
+Prime numbers limit: 10000
+
+Initializing worker threads...
+
+Threads started!
+
+CPU speed:
+    events per second: 13230.34
+
+General statistics:
+    total time:                          30.0006s
+    total number of events:              396931
+
+Latency (ms):
+         min:                                    0.56
+         avg:                                    0.60
+         max:                                    5.64
+         95th percentile:                        0.62
+         sum:                               239883.76
+
+Threads fairness:
+    events (avg/stddev):           49616.3750/145.25
+    execution time (avg/stddev):   29.9855/0.00
+
+##### CPU 8 threads (sysbench) (4/10)
+sysbench 1.0.20 (using system LuaJIT 2.1.1761786044)
+
+Running the test with following options:
+Number of threads: 8
+Initializing random number generator from current time
+
+
+Prime numbers limit: 10000
+
+Initializing worker threads...
+
+Threads started!
+
+CPU speed:
+    events per second: 13180.31
+
+General statistics:
+    total time:                          30.0007s
+    total number of events:              395430
+
+Latency (ms):
+         min:                                    0.56
+         avg:                                    0.61
+         max:                                    2.03
+         95th percentile:                        0.62
+         sum:                               239883.33
+
+Threads fairness:
+    events (avg/stddev):           49428.7500/124.64
+    execution time (avg/stddev):   29.9854/0.00
+
+##### CPU 8 threads (sysbench) (5/10)
+sysbench 1.0.20 (using system LuaJIT 2.1.1761786044)
+
+Running the test with following options:
+Number of threads: 8
+Initializing random number generator from current time
+
+
+Prime numbers limit: 10000
+
+Initializing worker threads...
+
+Threads started!
+
+CPU speed:
+    events per second: 13144.15
+
+General statistics:
+    total time:                          30.0006s
+    total number of events:              394344
+
+Latency (ms):
+         min:                                    0.57
+         avg:                                    0.61
+         max:                                    2.02
+         95th percentile:                        0.63
+         sum:                               239891.26
+
+Threads fairness:
+    events (avg/stddev):           49293.0000/162.26
+    execution time (avg/stddev):   29.9864/0.00
+
+##### CPU 8 threads (sysbench) (6/10)
+sysbench 1.0.20 (using system LuaJIT 2.1.1761786044)
+
+Running the test with following options:
+Number of threads: 8
+Initializing random number generator from current time
+
+
+Prime numbers limit: 10000
+
+Initializing worker threads...
+
+Threads started!
+
+CPU speed:
+    events per second: 13088.70
+
+General statistics:
+    total time:                          30.0006s
+    total number of events:              392680
+
+Latency (ms):
+         min:                                    0.57
+         avg:                                    0.61
+         max:                                    8.27
+         95th percentile:                        0.63
+         sum:                               239888.95
+
+Threads fairness:
+    events (avg/stddev):           49085.0000/129.92
+    execution time (avg/stddev):   29.9861/0.00
+
+##### CPU 8 threads (sysbench) (7/10)
+sysbench 1.0.20 (using system LuaJIT 2.1.1761786044)
+
+Running the test with following options:
+Number of threads: 8
+Initializing random number generator from current time
+
+
+Prime numbers limit: 10000
+
+Initializing worker threads...
+
+Threads started!
+
+CPU speed:
+    events per second: 13071.55
+
+General statistics:
+    total time:                          30.0004s
+    total number of events:              392166
+
+Latency (ms):
+         min:                                    0.57
+         avg:                                    0.61
+         max:                                    3.65
+         95th percentile:                        0.63
+         sum:                               239882.23
+
+Threads fairness:
+    events (avg/stddev):           49020.7500/145.21
+    execution time (avg/stddev):   29.9853/0.00
+
+##### CPU 8 threads (sysbench) (8/10)
+sysbench 1.0.20 (using system LuaJIT 2.1.1761786044)
+
+Running the test with following options:
+Number of threads: 8
+Initializing random number generator from current time
+
+
+Prime numbers limit: 10000
+
+Initializing worker threads...
+
+Threads started!
+
+CPU speed:
+    events per second: 13018.27
+
+General statistics:
+    total time:                          30.0006s
+    total number of events:              390569
+
+Latency (ms):
+         min:                                    0.57
+         avg:                                    0.61
+         max:                                    4.55
+         95th percentile:                        0.63
+         sum:                               239877.08
+
+Threads fairness:
+    events (avg/stddev):           48821.1250/133.03
+    execution time (avg/stddev):   29.9846/0.00
+
+##### CPU 8 threads (sysbench) (9/10)
+sysbench 1.0.20 (using system LuaJIT 2.1.1761786044)
+
+Running the test with following options:
+Number of threads: 8
+Initializing random number generator from current time
+
+
+Prime numbers limit: 10000
+
+Initializing worker threads...
+
+Threads started!
+
+CPU speed:
+    events per second: 13024.48
+
+General statistics:
+    total time:                          30.0007s
+    total number of events:              390755
+
+Latency (ms):
+         min:                                    0.57
+         avg:                                    0.61
+         max:                                    4.55
+         95th percentile:                        0.63
+         sum:                               239866.80
+
+Threads fairness:
+    events (avg/stddev):           48844.3750/141.69
+    execution time (avg/stddev):   29.9833/0.00
+
+##### CPU 8 threads (sysbench) (10/10)
+sysbench 1.0.20 (using system LuaJIT 2.1.1761786044)
+
+Running the test with following options:
+Number of threads: 8
+Initializing random number generator from current time
+
+
+Prime numbers limit: 10000
+
+Initializing worker threads...
+
+Threads started!
+
+CPU speed:
+    events per second: 12887.75
+
+General statistics:
+    total time:                          30.0005s
+    total number of events:              386652
+
+Latency (ms):
+         min:                                    0.57
+         avg:                                    0.62
+         max:                                    3.59
+         95th percentile:                        0.64
+         sum:                               239888.09
+
+Threads fairness:
+    events (avg/stddev):           48331.5000/153.98
+    execution time (avg/stddev):   29.9860/0.00
+
+##### RAM (RAMspeed INTmem 8 GB) (1/10)
+RAMspeed/SMP (GENERIC) v3.5.0 by Rhett M. Hollander and Paul V. Bolotoff, 2002-09
+
+8Gb per pass mode, 2 processes
+
+INTEGER   Copy:      17231.78 MB/s
+INTEGER   Scale:     16991.76 MB/s
+INTEGER   Add:       20674.77 MB/s
+INTEGER   Triad:     20507.26 MB/s
+---
+INTEGER   AVERAGE:   18851.39 MB/s
+
+##### RAM (RAMspeed INTmem 8 GB) (2/10)
+RAMspeed/SMP (GENERIC) v3.5.0 by Rhett M. Hollander and Paul V. Bolotoff, 2002-09
+
+8Gb per pass mode, 2 processes
+
+INTEGER   Copy:      17184.11 MB/s
+INTEGER   Scale:     16165.99 MB/s
+INTEGER   Add:       20412.16 MB/s
+INTEGER   Triad:     19758.77 MB/s
+---
+INTEGER   AVERAGE:   18380.26 MB/s
+
+RAMspeed/SMP (GENERIC) v3.5.0 by Rhett M. Hollander and Paul V. Bolotoff, 2002-09
+
+8Gb per pass mode, 2 processes
+
+##### RAM (RAMspeed INTmem 8 GB) (3/10)
+RAMspeed/SMP (GENERIC) v3.5.0 by Rhett M. Hollander and Paul V. Bolotoff, 2002-09
+
+8Gb per pass mode, 2 processes
+
+INTEGER   Copy:      17443.58 MB/s
+INTEGER   Scale:     16157.23 MB/s
+INTEGER   Add:       21377.13 MB/s
+INTEGER   Triad:     21801.15 MB/s
+---
+INTEGER   AVERAGE:   19194.77 MB/s
+
+##### RAM (RAMspeed INTmem 8 GB) (4/10)
+RAMspeed/SMP (GENERIC) v3.5.0 by Rhett M. Hollander and Paul V. Bolotoff, 2002-09
+
+8Gb per pass mode, 2 processes
+
+INTEGER   Copy:      22757.40 MB/s
+INTEGER   Scale:     15419.48 MB/s
+INTEGER   Add:       20032.13 MB/s
+INTEGER   Triad:     19196.09 MB/s
+---
+INTEGER   AVERAGE:   19351.27 MB/s
+
+RAMspeed/SMP (GENERIC) v3.5.0 by Rhett M. Hollander and Paul V. Bolotoff, 2002-09
+
+8Gb per pass mode, 2 processes
+
+##### RAM (RAMspeed INTmem 8 GB) (5/10)
+RAMspeed/SMP (GENERIC) v3.5.0 by Rhett M. Hollander and Paul V. Bolotoff, 2002-09
+
+8Gb per pass mode, 2 processes
+
+INTEGER   Copy:      15821.78 MB/s
+INTEGER   Scale:     15098.04 MB/s
+INTEGER   Add:       19516.52 MB/s
+INTEGER   Triad:     18836.68 MB/s
+---
+INTEGER   AVERAGE:   17318.25 MB/s
+
+RAMspeed/SMP (GENERIC) v3.5.0 by Rhett M. Hollander and Paul V. Bolotoff, 2002-09
+
+8Gb per pass mode, 2 processes
+
+##### RAM (RAMspeed INTmem 8 GB) (6/10)
+RAMspeed/SMP (GENERIC) v3.5.0 by Rhett M. Hollander and Paul V. Bolotoff, 2002-09
+
+8Gb per pass mode, 2 processes
+
+INTEGER   Copy:      15627.63 MB/s
+INTEGER   Scale:     14578.89 MB/s
+INTEGER   Add:       19089.75 MB/s
+INTEGER   Triad:     18693.21 MB/s
+---
+INTEGER   AVERAGE:   16997.37 MB/s
+
+RAMspeed/SMP (GENERIC) v3.5.0 by Rhett M. Hollander and Paul V. Bolotoff, 2002-09
+
+8Gb per pass mode, 2 processes
+
+##### RAM (RAMspeed INTmem 8 GB) (7/10)
+RAMspeed/SMP (GENERIC) v3.5.0 by Rhett M. Hollander and Paul V. Bolotoff, 2002-09
+
+8Gb per pass mode, 2 processes
+
+INTEGER   Copy:      16458.62 MB/s
+INTEGER   Scale:     15820.94 MB/s
+INTEGER   Add:       20974.63 MB/s
+INTEGER   Triad:     20420.99 MB/s
+---
+INTEGER   AVERAGE:   18418.80 MB/s
+
+##### RAM (RAMspeed INTmem 8 GB) (8/10)
+RAMspeed/SMP (GENERIC) v3.5.0 by Rhett M. Hollander and Paul V. Bolotoff, 2002-09
+
+8Gb per pass mode, 2 processes
+
+INTEGER   Copy:      16962.49 MB/s
+INTEGER   Scale:     16026.05 MB/s
+INTEGER   Add:       20794.34 MB/s
+INTEGER   Triad:     20707.19 MB/s
+---
+INTEGER   AVERAGE:   18622.52 MB/s
+
+##### RAM (RAMspeed INTmem 8 GB) (9/10)
+RAMspeed/SMP (GENERIC) v3.5.0 by Rhett M. Hollander and Paul V. Bolotoff, 2002-09
+
+8Gb per pass mode, 2 processes
+
+INTEGER   Copy:      17148.77 MB/s
+INTEGER   Scale:     16468.65 MB/s
+INTEGER   Add:       20568.46 MB/s
+INTEGER   Triad:     19719.04 MB/s
+---
+INTEGER   AVERAGE:   18476.23 MB/s
+
+RAMspeed/SMP (GENERIC) v3.5.0 by Rhett M. Hollander and Paul V. Bolotoff, 2002-09
+
+8Gb per pass mode, 2 processes
+
+##### RAM (RAMspeed INTmem 8 GB) (10/10)
+RAMspeed/SMP (GENERIC) v3.5.0 by Rhett M. Hollander and Paul V. Bolotoff, 2002-09
+
+8Gb per pass mode, 2 processes
+
+INTEGER   Copy:      15700.56 MB/s
+INTEGER   Scale:     14272.95 MB/s
+INTEGER   Add:       18872.38 MB/s
+INTEGER   Triad:     18494.82 MB/s
+---
+INTEGER   AVERAGE:   16835.18 MB/s
+
+RAMspeed/SMP (GENERIC) v3.5.0 by Rhett M. Hollander and Paul V. Bolotoff, 2002-09
+
+8Gb per pass mode, 2 processes
+
+##### RAM (STREAM 8 threads) (1/10)
+-------------------------------------------------------------
+STREAM version $Revision: 5.10 $
+-------------------------------------------------------------
+This system uses 8 bytes per array element.
+-------------------------------------------------------------
+Array size = 10000000 (elements), Offset = 0 (elements)
+Memory per array = 76.3 MiB (= 0.1 GiB).
+Total memory required = 228.9 MiB (= 0.2 GiB).
+Each kernel will be executed 10 times.
+ The *best* time for each kernel (excluding the first iteration)
+ will be used to compute the reported bandwidth.
+-------------------------------------------------------------
+Number of Threads requested = 8
+Number of Threads counted = 8
+-------------------------------------------------------------
+Your clock granularity/precision appears to be 1 microseconds.
+Each test below will take on the order of 6284 microseconds.
+   (= 6284 clock ticks)
+Increase the size of the arrays if this shows that
+you are not getting at least 20 clock ticks per test.
+-------------------------------------------------------------
+WARNING -- The above is only a rough guideline.
+For best results, please be sure you know the
+precision of your system timer.
+-------------------------------------------------------------
+Function    Best Rate MB/s  Avg time     Min time     Max time
+Copy:           31128.0     0.005245     0.005140     0.005353
+Scale:          18970.7     0.008536     0.008434     0.008671
+Add:            21093.7     0.011724     0.011378     0.012235
+Triad:          21012.2     0.011646     0.011422     0.012483
+-------------------------------------------------------------
+Solution Validates: avg error less than 1.000000e-13 on all three arrays
+-------------------------------------------------------------
+##### RAM (STREAM 8 threads) (2/10)
+-------------------------------------------------------------
+STREAM version $Revision: 5.10 $
+-------------------------------------------------------------
+This system uses 8 bytes per array element.
+-------------------------------------------------------------
+Array size = 10000000 (elements), Offset = 0 (elements)
+Memory per array = 76.3 MiB (= 0.1 GiB).
+Total memory required = 228.9 MiB (= 0.2 GiB).
+Each kernel will be executed 10 times.
+ The *best* time for each kernel (excluding the first iteration)
+ will be used to compute the reported bandwidth.
+-------------------------------------------------------------
+Number of Threads requested = 8
+Number of Threads counted = 8
+-------------------------------------------------------------
+Your clock granularity/precision appears to be 1 microseconds.
+Each test below will take on the order of 6010 microseconds.
+   (= 6010 clock ticks)
+Increase the size of the arrays if this shows that
+you are not getting at least 20 clock ticks per test.
+-------------------------------------------------------------
+WARNING -- The above is only a rough guideline.
+For best results, please be sure you know the
+precision of your system timer.
+-------------------------------------------------------------
+Function    Best Rate MB/s  Avg time     Min time     Max time
+Copy:           30587.4     0.005422     0.005231     0.005845
+Scale:          18914.6     0.008599     0.008459     0.008926
+Add:            20885.8     0.011698     0.011491     0.012191
+Triad:          20849.5     0.011632     0.011511     0.012039
+-------------------------------------------------------------
+Solution Validates: avg error less than 1.000000e-13 on all three arrays
+-------------------------------------------------------------
+##### RAM (STREAM 8 threads) (3/10)
+-------------------------------------------------------------
+STREAM version $Revision: 5.10 $
+-------------------------------------------------------------
+This system uses 8 bytes per array element.
+-------------------------------------------------------------
+Array size = 10000000 (elements), Offset = 0 (elements)
+Memory per array = 76.3 MiB (= 0.1 GiB).
+Total memory required = 228.9 MiB (= 0.2 GiB).
+Each kernel will be executed 10 times.
+ The *best* time for each kernel (excluding the first iteration)
+ will be used to compute the reported bandwidth.
+-------------------------------------------------------------
+Number of Threads requested = 8
+Number of Threads counted = 8
+-------------------------------------------------------------
+Your clock granularity/precision appears to be 1 microseconds.
+Each test below will take on the order of 6632 microseconds.
+   (= 6632 clock ticks)
+Increase the size of the arrays if this shows that
+you are not getting at least 20 clock ticks per test.
+-------------------------------------------------------------
+WARNING -- The above is only a rough guideline.
+For best results, please be sure you know the
+precision of your system timer.
+-------------------------------------------------------------
+Function    Best Rate MB/s  Avg time     Min time     Max time
+Copy:           30540.1     0.005336     0.005239     0.005568
+Scale:          18973.4     0.008648     0.008433     0.009288
+Add:            20853.4     0.011770     0.011509     0.012210
+Triad:          20918.8     0.011646     0.011473     0.011865
+-------------------------------------------------------------
+Solution Validates: avg error less than 1.000000e-13 on all three arrays
+-------------------------------------------------------------
+##### RAM (STREAM 8 threads) (4/10)
+-------------------------------------------------------------
+STREAM version $Revision: 5.10 $
+-------------------------------------------------------------
+This system uses 8 bytes per array element.
+-------------------------------------------------------------
+Array size = 10000000 (elements), Offset = 0 (elements)
+Memory per array = 76.3 MiB (= 0.1 GiB).
+Total memory required = 228.9 MiB (= 0.2 GiB).
+Each kernel will be executed 10 times.
+ The *best* time for each kernel (excluding the first iteration)
+ will be used to compute the reported bandwidth.
+-------------------------------------------------------------
+Number of Threads requested = 8
+Number of Threads counted = 8
+-------------------------------------------------------------
+Your clock granularity/precision appears to be 1 microseconds.
+Each test below will take on the order of 5902 microseconds.
+   (= 5902 clock ticks)
+Increase the size of the arrays if this shows that
+you are not getting at least 20 clock ticks per test.
+-------------------------------------------------------------
+WARNING -- The above is only a rough guideline.
+For best results, please be sure you know the
+precision of your system timer.
+-------------------------------------------------------------
+Function    Best Rate MB/s  Avg time     Min time     Max time
+Copy:           30268.8     0.005363     0.005286     0.005583
+Scale:          18926.3     0.008747     0.008454     0.009271
+Add:            20663.3     0.011726     0.011615     0.011957
+Triad:          20918.8     0.011713     0.011473     0.012453
+-------------------------------------------------------------
+Solution Validates: avg error less than 1.000000e-13 on all three arrays
+-------------------------------------------------------------
+##### RAM (STREAM 8 threads) (5/10)
+-------------------------------------------------------------
+STREAM version $Revision: 5.10 $
+-------------------------------------------------------------
+This system uses 8 bytes per array element.
+-------------------------------------------------------------
+Array size = 10000000 (elements), Offset = 0 (elements)
+Memory per array = 76.3 MiB (= 0.1 GiB).
+Total memory required = 228.9 MiB (= 0.2 GiB).
+Each kernel will be executed 10 times.
+ The *best* time for each kernel (excluding the first iteration)
+ will be used to compute the reported bandwidth.
+-------------------------------------------------------------
+Number of Threads requested = 8
+Number of Threads counted = 8
+-------------------------------------------------------------
+Your clock granularity/precision appears to be 1 microseconds.
+Each test below will take on the order of 5948 microseconds.
+   (= 5948 clock ticks)
+Increase the size of the arrays if this shows that
+you are not getting at least 20 clock ticks per test.
+-------------------------------------------------------------
+WARNING -- The above is only a rough guideline.
+For best results, please be sure you know the
+precision of your system timer.
+-------------------------------------------------------------
+Function    Best Rate MB/s  Avg time     Min time     Max time
+Copy:           30412.8     0.005441     0.005261     0.005659
+Scale:          19000.2     0.008735     0.008421     0.009644
+Add:            20691.3     0.011735     0.011599     0.012016
+Triad:          20772.0     0.011786     0.011554     0.012286
+-------------------------------------------------------------
+Solution Validates: avg error less than 1.000000e-13 on all three arrays
+-------------------------------------------------------------
+##### RAM (STREAM 8 threads) (6/10)
+-------------------------------------------------------------
+STREAM version $Revision: 5.10 $
+-------------------------------------------------------------
+This system uses 8 bytes per array element.
+-------------------------------------------------------------
+Array size = 10000000 (elements), Offset = 0 (elements)
+Memory per array = 76.3 MiB (= 0.1 GiB).
+Total memory required = 228.9 MiB (= 0.2 GiB).
+Each kernel will be executed 10 times.
+ The *best* time for each kernel (excluding the first iteration)
+ will be used to compute the reported bandwidth.
+-------------------------------------------------------------
+Number of Threads requested = 8
+Number of Threads counted = 8
+-------------------------------------------------------------
+Your clock granularity/precision appears to be 1 microseconds.
+Each test below will take on the order of 5886 microseconds.
+   (= 5886 clock ticks)
+Increase the size of the arrays if this shows that
+you are not getting at least 20 clock ticks per test.
+-------------------------------------------------------------
+WARNING -- The above is only a rough guideline.
+For best results, please be sure you know the
+precision of your system timer.
+-------------------------------------------------------------
+Function    Best Rate MB/s  Avg time     Min time     Max time
+Copy:           30846.1     0.005267     0.005187     0.005478
+Scale:          19070.4     0.008538     0.008390     0.009068
+Add:            20934.9     0.011544     0.011464     0.011655
+Triad:          20999.1     0.011581     0.011429     0.012117
+-------------------------------------------------------------
+Solution Validates: avg error less than 1.000000e-13 on all three arrays
+-------------------------------------------------------------
+##### RAM (STREAM 8 threads) (7/10)
+-------------------------------------------------------------
+STREAM version $Revision: 5.10 $
+-------------------------------------------------------------
+This system uses 8 bytes per array element.
+-------------------------------------------------------------
+Array size = 10000000 (elements), Offset = 0 (elements)
+Memory per array = 76.3 MiB (= 0.1 GiB).
+Total memory required = 228.9 MiB (= 0.2 GiB).
+Each kernel will be executed 10 times.
+ The *best* time for each kernel (excluding the first iteration)
+ will be used to compute the reported bandwidth.
+-------------------------------------------------------------
+Number of Threads requested = 8
+Number of Threads counted = 8
+-------------------------------------------------------------
+Your clock granularity/precision appears to be 1 microseconds.
+Each test below will take on the order of 6162 microseconds.
+   (= 6162 clock ticks)
+Increase the size of the arrays if this shows that
+you are not getting at least 20 clock ticks per test.
+-------------------------------------------------------------
+WARNING -- The above is only a rough guideline.
+For best results, please be sure you know the
+precision of your system timer.
+-------------------------------------------------------------
+Function    Best Rate MB/s  Avg time     Min time     Max time
+Copy:           30355.0     0.005448     0.005271     0.005893
+Scale:          18964.3     0.008598     0.008437     0.008818
+Add:            20754.0     0.011726     0.011564     0.011963
+Triad:          20949.7     0.011630     0.011456     0.012154
+-------------------------------------------------------------
+Solution Validates: avg error less than 1.000000e-13 on all three arrays
+-------------------------------------------------------------
+##### RAM (STREAM 8 threads) (8/10)
+-------------------------------------------------------------
+STREAM version $Revision: 5.10 $
+-------------------------------------------------------------
+This system uses 8 bytes per array element.
+-------------------------------------------------------------
+Array size = 10000000 (elements), Offset = 0 (elements)
+Memory per array = 76.3 MiB (= 0.1 GiB).
+Total memory required = 228.9 MiB (= 0.2 GiB).
+Each kernel will be executed 10 times.
+ The *best* time for each kernel (excluding the first iteration)
+ will be used to compute the reported bandwidth.
+-------------------------------------------------------------
+Number of Threads requested = 8
+Number of Threads counted = 8
+-------------------------------------------------------------
+Your clock granularity/precision appears to be 1 microseconds.
+Each test below will take on the order of 6754 microseconds.
+   (= 6754 clock ticks)
+Increase the size of the arrays if this shows that
+you are not getting at least 20 clock ticks per test.
+-------------------------------------------------------------
+WARNING -- The above is only a rough guideline.
+For best results, please be sure you know the
+precision of your system timer.
+-------------------------------------------------------------
+Function    Best Rate MB/s  Avg time     Min time     Max time
+Copy:           30188.4     0.005338     0.005300     0.005398
+Scale:          18894.9     0.008541     0.008468     0.008635
+Add:            20714.7     0.011660     0.011586     0.011771
+Triad:          20806.4     0.011687     0.011535     0.012196
+-------------------------------------------------------------
+Solution Validates: avg error less than 1.000000e-13 on all three arrays
+-------------------------------------------------------------
+##### RAM (STREAM 8 threads) (9/10)
+-------------------------------------------------------------
+STREAM version $Revision: 5.10 $
+-------------------------------------------------------------
+This system uses 8 bytes per array element.
+-------------------------------------------------------------
+Array size = 10000000 (elements), Offset = 0 (elements)
+Memory per array = 76.3 MiB (= 0.1 GiB).
+Total memory required = 228.9 MiB (= 0.2 GiB).
+Each kernel will be executed 10 times.
+ The *best* time for each kernel (excluding the first iteration)
+ will be used to compute the reported bandwidth.
+-------------------------------------------------------------
+Number of Threads requested = 8
+Number of Threads counted = 8
+-------------------------------------------------------------
+Your clock granularity/precision appears to be 1 microseconds.
+Each test below will take on the order of 6714 microseconds.
+   (= 6714 clock ticks)
+Increase the size of the arrays if this shows that
+you are not getting at least 20 clock ticks per test.
+-------------------------------------------------------------
+WARNING -- The above is only a rough guideline.
+For best results, please be sure you know the
+precision of your system timer.
+-------------------------------------------------------------
+Function    Best Rate MB/s  Avg time     Min time     Max time
+Copy:           30234.7     0.005384     0.005292     0.005478
+Scale:          18912.4     0.008551     0.008460     0.008657
+Add:            20787.9     0.011831     0.011545     0.012340
+Triad:          20933.6     0.011655     0.011465     0.012206
+-------------------------------------------------------------
+Solution Validates: avg error less than 1.000000e-13 on all three arrays
+-------------------------------------------------------------
+##### RAM (STREAM 8 threads) (10/10)
+-------------------------------------------------------------
+STREAM version $Revision: 5.10 $
+-------------------------------------------------------------
+This system uses 8 bytes per array element.
+-------------------------------------------------------------
+Array size = 10000000 (elements), Offset = 0 (elements)
+Memory per array = 76.3 MiB (= 0.1 GiB).
+Total memory required = 228.9 MiB (= 0.2 GiB).
+Each kernel will be executed 10 times.
+ The *best* time for each kernel (excluding the first iteration)
+ will be used to compute the reported bandwidth.
+-------------------------------------------------------------
+Number of Threads requested = 8
+Number of Threads counted = 8
+-------------------------------------------------------------
+Your clock granularity/precision appears to be 1 microseconds.
+Each test below will take on the order of 6004 microseconds.
+   (= 6004 clock ticks)
+Increase the size of the arrays if this shows that
+you are not getting at least 20 clock ticks per test.
+-------------------------------------------------------------
+WARNING -- The above is only a rough guideline.
+For best results, please be sure you know the
+precision of your system timer.
+-------------------------------------------------------------
+Function    Best Rate MB/s  Avg time     Min time     Max time
+Copy:           30251.0     0.005410     0.005289     0.005912
+Scale:          18910.3     0.008547     0.008461     0.008615
+Add:            20731.0     0.011720     0.011577     0.012141
+Triad:          20842.6     0.011644     0.011515     0.012023
+-------------------------------------------------------------
+Solution Validates: avg error less than 1.000000e-13 on all three arrays
+-------------------------------------------------------------
+##### Disco (IOzone 1 GB bloco 4k) (1/10)
+	Iozone: Performance Test of File I/O
+	        Version $Revision: 3.508 $
+		Compiled for 64 bit mode.
+		Build: linux-AMD64 
+
+	Contributors:William Norcott, Don Capps, Isom Crawford, Kirby Collins
+	             Al Slater, Scott Rhine, Mike Wisner, Ken Goss
+	             Steve Landherr, Brad Smith, Mark Kelly, Dr. Alain CYR,
+	             Randy Dunlap, Mark Montague, Dan Million, Gavin Brebner,
+	             Jean-Marc Zucconi, Jeff Blomberg, Benny Halevy, Dave Boone,
+	             Erik Habbinga, Kris Strecker, Walter Wong, Joshua Root,
+	             Fabrice Bacchella, Zhenghua Xue, Qin Li, Darren Sawyer,
+	             Vangel Bojaxhi, Ben England, Vikentsi Lapa,
+	             Alexey Skidanov, Sudhir Kumar.
+
+	Run began: Sat Oct 24 08:00:46 2026
+
+	O_DIRECT feature enabled
+	File size set to 1048576 kB
+	Record Size 4 kB
+	Command line used: iozone -i 0 -i 1 -I -s 1g -r 4k -f /home/administrador/iozone_ficheiro
+	Output is in kBytes/sec
+	Time Resolution = 0.000001 seconds.
+	Processor cache size set to 1024 kBytes.
+	Processor cache line size set to 32 bytes.
+	File stride size set to 17 * record size.
+                                                                    random    random      bkwd     record     stride                                        
+              kB  reclen    write    rewrite      read    reread      read     write      read    rewrite       read    fwrite  frewrite     fread   freread
+         1048576       4     57915     61800     39652     40223                                                                                  
+
+iozone test complete.
+##### Disco (IOzone 1 GB bloco 4k) (2/10)
+	Iozone: Performance Test of File I/O
+	        Version $Revision: 3.508 $
+		Compiled for 64 bit mode.
+		Build: linux-AMD64 
+
+	Contributors:William Norcott, Don Capps, Isom Crawford, Kirby Collins
+	             Al Slater, Scott Rhine, Mike Wisner, Ken Goss
+	             Steve Landherr, Brad Smith, Mark Kelly, Dr. Alain CYR,
+	             Randy Dunlap, Mark Montague, Dan Million, Gavin Brebner,
+	             Jean-Marc Zucconi, Jeff Blomberg, Benny Halevy, Dave Boone,
+	             Erik Habbinga, Kris Strecker, Walter Wong, Joshua Root,
+	             Fabrice Bacchella, Zhenghua Xue, Qin Li, Darren Sawyer,
+	             Vangel Bojaxhi, Ben England, Vikentsi Lapa,
+	             Alexey Skidanov, Sudhir Kumar.
+
+	Run began: Sat Oct 24 08:02:14 2026
+
+	O_DIRECT feature enabled
+	File size set to 1048576 kB
+	Record Size 4 kB
+	Command line used: iozone -i 0 -i 1 -I -s 1g -r 4k -f /home/administrador/iozone_ficheiro
+	Output is in kBytes/sec
+	Time Resolution = 0.000001 seconds.
+	Processor cache size set to 1024 kBytes.
+	Processor cache line size set to 32 bytes.
+	File stride size set to 17 * record size.
+                                                                    random    random      bkwd     record     stride                                        
+              kB  reclen    write    rewrite      read    reread      read     write      read    rewrite       read    fwrite  frewrite     fread   freread
+         1048576       4     58989     63390     34727     34637                                                                                  
+
+iozone test complete.
+##### Disco (IOzone 1 GB bloco 4k) (3/10)
+	Iozone: Performance Test of File I/O
+	        Version $Revision: 3.508 $
+		Compiled for 64 bit mode.
+		Build: linux-AMD64 
+
+	Contributors:William Norcott, Don Capps, Isom Crawford, Kirby Collins
+	             Al Slater, Scott Rhine, Mike Wisner, Ken Goss
+	             Steve Landherr, Brad Smith, Mark Kelly, Dr. Alain CYR,
+	             Randy Dunlap, Mark Montague, Dan Million, Gavin Brebner,
+	             Jean-Marc Zucconi, Jeff Blomberg, Benny Halevy, Dave Boone,
+	             Erik Habbinga, Kris Strecker, Walter Wong, Joshua Root,
+	             Fabrice Bacchella, Zhenghua Xue, Qin Li, Darren Sawyer,
+	             Vangel Bojaxhi, Ben England, Vikentsi Lapa,
+	             Alexey Skidanov, Sudhir Kumar.
+
+	Run began: Sat Oct 24 08:03:49 2026
+
+	O_DIRECT feature enabled
+	File size set to 1048576 kB
+	Record Size 4 kB
+	Command line used: iozone -i 0 -i 1 -I -s 1g -r 4k -f /home/administrador/iozone_ficheiro
+	Output is in kBytes/sec
+	Time Resolution = 0.000001 seconds.
+	Processor cache size set to 1024 kBytes.
+	Processor cache line size set to 32 bytes.
+	File stride size set to 17 * record size.
+                                                                    random    random      bkwd     record     stride                                        
+              kB  reclen    write    rewrite      read    reread      read     write      read    rewrite       read    fwrite  frewrite     fread   freread
+         1048576       4     58969     64433     38141     39211                                                                                  
+
+iozone test complete.
+##### Disco (IOzone 1 GB bloco 4k) (4/10)
+	Iozone: Performance Test of File I/O
+	        Version $Revision: 3.508 $
+		Compiled for 64 bit mode.
+		Build: linux-AMD64 
+
+	Contributors:William Norcott, Don Capps, Isom Crawford, Kirby Collins
+	             Al Slater, Scott Rhine, Mike Wisner, Ken Goss
+	             Steve Landherr, Brad Smith, Mark Kelly, Dr. Alain CYR,
+	             Randy Dunlap, Mark Montague, Dan Million, Gavin Brebner,
+	             Jean-Marc Zucconi, Jeff Blomberg, Benny Halevy, Dave Boone,
+	             Erik Habbinga, Kris Strecker, Walter Wong, Joshua Root,
+	             Fabrice Bacchella, Zhenghua Xue, Qin Li, Darren Sawyer,
+	             Vangel Bojaxhi, Ben England, Vikentsi Lapa,
+	             Alexey Skidanov, Sudhir Kumar.
+
+	Run began: Sat Oct 24 08:05:17 2026
+
+	O_DIRECT feature enabled
+	File size set to 1048576 kB
+	Record Size 4 kB
+	Command line used: iozone -i 0 -i 1 -I -s 1g -r 4k -f /home/administrador/iozone_ficheiro
+	Output is in kBytes/sec
+	Time Resolution = 0.000001 seconds.
+	Processor cache size set to 1024 kBytes.
+	Processor cache line size set to 32 bytes.
+	File stride size set to 17 * record size.
+                                                                    random    random      bkwd     record     stride                                        
+              kB  reclen    write    rewrite      read    reread      read     write      read    rewrite       read    fwrite  frewrite     fread   freread
+         1048576       4     59136     63802     39910     40355                                                                                  
+
+iozone test complete.
+##### Disco (IOzone 1 GB bloco 4k) (5/10)
+	Iozone: Performance Test of File I/O
+	        Version $Revision: 3.508 $
+		Compiled for 64 bit mode.
+		Build: linux-AMD64 
+
+	Contributors:William Norcott, Don Capps, Isom Crawford, Kirby Collins
+	             Al Slater, Scott Rhine, Mike Wisner, Ken Goss
+	             Steve Landherr, Brad Smith, Mark Kelly, Dr. Alain CYR,
+	             Randy Dunlap, Mark Montague, Dan Million, Gavin Brebner,
+	             Jean-Marc Zucconi, Jeff Blomberg, Benny Halevy, Dave Boone,
+	             Erik Habbinga, Kris Strecker, Walter Wong, Joshua Root,
+	             Fabrice Bacchella, Zhenghua Xue, Qin Li, Darren Sawyer,
+	             Vangel Bojaxhi, Ben England, Vikentsi Lapa,
+	             Alexey Skidanov, Sudhir Kumar.
+
+	Run began: Sat Oct 24 08:06:44 2026
+
+	O_DIRECT feature enabled
+	File size set to 1048576 kB
+	Record Size 4 kB
+	Command line used: iozone -i 0 -i 1 -I -s 1g -r 4k -f /home/administrador/iozone_ficheiro
+	Output is in kBytes/sec
+	Time Resolution = 0.000001 seconds.
+	Processor cache size set to 1024 kBytes.
+	Processor cache line size set to 32 bytes.
+	File stride size set to 17 * record size.
+                                                                    random    random      bkwd     record     stride                                        
+              kB  reclen    write    rewrite      read    reread      read     write      read    rewrite       read    fwrite  frewrite     fread   freread
+         1048576       4     57594     62415     35460     33692                                                                                  
+
+iozone test complete.
+##### Disco (IOzone 1 GB bloco 4k) (6/10)
+	Iozone: Performance Test of File I/O
+	        Version $Revision: 3.508 $
+		Compiled for 64 bit mode.
+		Build: linux-AMD64 
+
+	Contributors:William Norcott, Don Capps, Isom Crawford, Kirby Collins
+	             Al Slater, Scott Rhine, Mike Wisner, Ken Goss
+	             Steve Landherr, Brad Smith, Mark Kelly, Dr. Alain CYR,
+	             Randy Dunlap, Mark Montague, Dan Million, Gavin Brebner,
+	             Jean-Marc Zucconi, Jeff Blomberg, Benny Halevy, Dave Boone,
+	             Erik Habbinga, Kris Strecker, Walter Wong, Joshua Root,
+	             Fabrice Bacchella, Zhenghua Xue, Qin Li, Darren Sawyer,
+	             Vangel Bojaxhi, Ben England, Vikentsi Lapa,
+	             Alexey Skidanov, Sudhir Kumar.
+
+	Run began: Sat Oct 24 08:08:19 2026
+
+	O_DIRECT feature enabled
+	File size set to 1048576 kB
+	Record Size 4 kB
+	Command line used: iozone -i 0 -i 1 -I -s 1g -r 4k -f /home/administrador/iozone_ficheiro
+	Output is in kBytes/sec
+	Time Resolution = 0.000001 seconds.
+	Processor cache size set to 1024 kBytes.
+	Processor cache line size set to 32 bytes.
+	File stride size set to 17 * record size.
+                                                                    random    random      bkwd     record     stride                                        
+              kB  reclen    write    rewrite      read    reread      read     write      read    rewrite       read    fwrite  frewrite     fread   freread
+         1048576       4     58383     63515     41407     41847                                                                                  
+
+iozone test complete.
+##### Disco (IOzone 1 GB bloco 4k) (7/10)
+	Iozone: Performance Test of File I/O
+	        Version $Revision: 3.508 $
+		Compiled for 64 bit mode.
+		Build: linux-AMD64 
+
+	Contributors:William Norcott, Don Capps, Isom Crawford, Kirby Collins
+	             Al Slater, Scott Rhine, Mike Wisner, Ken Goss
+	             Steve Landherr, Brad Smith, Mark Kelly, Dr. Alain CYR,
+	             Randy Dunlap, Mark Montague, Dan Million, Gavin Brebner,
+	             Jean-Marc Zucconi, Jeff Blomberg, Benny Halevy, Dave Boone,
+	             Erik Habbinga, Kris Strecker, Walter Wong, Joshua Root,
+	             Fabrice Bacchella, Zhenghua Xue, Qin Li, Darren Sawyer,
+	             Vangel Bojaxhi, Ben England, Vikentsi Lapa,
+	             Alexey Skidanov, Sudhir Kumar.
+
+	Run began: Sat Oct 24 08:09:44 2026
+
+	O_DIRECT feature enabled
+	File size set to 1048576 kB
+	Record Size 4 kB
+	Command line used: iozone -i 0 -i 1 -I -s 1g -r 4k -f /home/administrador/iozone_ficheiro
+	Output is in kBytes/sec
+	Time Resolution = 0.000001 seconds.
+	Processor cache size set to 1024 kBytes.
+	Processor cache line size set to 32 bytes.
+	File stride size set to 17 * record size.
+                                                                    random    random      bkwd     record     stride                                        
+              kB  reclen    write    rewrite      read    reread      read     write      read    rewrite       read    fwrite  frewrite     fread   freread
+         1048576       4     57987     63215     40205     40630                                                                                  
+
+iozone test complete.
+##### Disco (IOzone 1 GB bloco 4k) (8/10)
+	Iozone: Performance Test of File I/O
+	        Version $Revision: 3.508 $
+		Compiled for 64 bit mode.
+		Build: linux-AMD64 
+
+	Contributors:William Norcott, Don Capps, Isom Crawford, Kirby Collins
+	             Al Slater, Scott Rhine, Mike Wisner, Ken Goss
+	             Steve Landherr, Brad Smith, Mark Kelly, Dr. Alain CYR,
+	             Randy Dunlap, Mark Montague, Dan Million, Gavin Brebner,
+	             Jean-Marc Zucconi, Jeff Blomberg, Benny Halevy, Dave Boone,
+	             Erik Habbinga, Kris Strecker, Walter Wong, Joshua Root,
+	             Fabrice Bacchella, Zhenghua Xue, Qin Li, Darren Sawyer,
+	             Vangel Bojaxhi, Ben England, Vikentsi Lapa,
+	             Alexey Skidanov, Sudhir Kumar.
+
+	Run began: Sat Oct 24 08:11:11 2026
+
+	O_DIRECT feature enabled
+	File size set to 1048576 kB
+	Record Size 4 kB
+	Command line used: iozone -i 0 -i 1 -I -s 1g -r 4k -f /home/administrador/iozone_ficheiro
+	Output is in kBytes/sec
+	Time Resolution = 0.000001 seconds.
+	Processor cache size set to 1024 kBytes.
+	Processor cache line size set to 32 bytes.
+	File stride size set to 17 * record size.
+                                                                    random    random      bkwd     record     stride                                        
+              kB  reclen    write    rewrite      read    reread      read     write      read    rewrite       read    fwrite  frewrite     fread   freread
+         1048576       4     58021     59503     39577     40556                                                                                  
+
+iozone test complete.
+##### Disco (IOzone 1 GB bloco 4k) (9/10)
+	Iozone: Performance Test of File I/O
+	        Version $Revision: 3.508 $
+		Compiled for 64 bit mode.
+		Build: linux-AMD64 
+
+	Contributors:William Norcott, Don Capps, Isom Crawford, Kirby Collins
+	             Al Slater, Scott Rhine, Mike Wisner, Ken Goss
+	             Steve Landherr, Brad Smith, Mark Kelly, Dr. Alain CYR,
+	             Randy Dunlap, Mark Montague, Dan Million, Gavin Brebner,
+	             Jean-Marc Zucconi, Jeff Blomberg, Benny Halevy, Dave Boone,
+	             Erik Habbinga, Kris Strecker, Walter Wong, Joshua Root,
+	             Fabrice Bacchella, Zhenghua Xue, Qin Li, Darren Sawyer,
+	             Vangel Bojaxhi, Ben England, Vikentsi Lapa,
+	             Alexey Skidanov, Sudhir Kumar.
+
+	Run began: Sat Oct 24 08:12:39 2026
+
+	O_DIRECT feature enabled
+	File size set to 1048576 kB
+	Record Size 4 kB
+	Command line used: iozone -i 0 -i 1 -I -s 1g -r 4k -f /home/administrador/iozone_ficheiro
+	Output is in kBytes/sec
+	Time Resolution = 0.000001 seconds.
+	Processor cache size set to 1024 kBytes.
+	Processor cache line size set to 32 bytes.
+	File stride size set to 17 * record size.
+                                                                    random    random      bkwd     record     stride                                        
+              kB  reclen    write    rewrite      read    reread      read     write      read    rewrite       read    fwrite  frewrite     fread   freread
+         1048576       4     58414     62019     40878     41553                                                                                  
+
+iozone test complete.
+##### Disco (IOzone 1 GB bloco 4k) (10/10)
+	Iozone: Performance Test of File I/O
+	        Version $Revision: 3.508 $
+		Compiled for 64 bit mode.
+		Build: linux-AMD64 
+
+	Contributors:William Norcott, Don Capps, Isom Crawford, Kirby Collins
+	             Al Slater, Scott Rhine, Mike Wisner, Ken Goss
+	             Steve Landherr, Brad Smith, Mark Kelly, Dr. Alain CYR,
+	             Randy Dunlap, Mark Montague, Dan Million, Gavin Brebner,
+	             Jean-Marc Zucconi, Jeff Blomberg, Benny Halevy, Dave Boone,
+	             Erik Habbinga, Kris Strecker, Walter Wong, Joshua Root,
+	             Fabrice Bacchella, Zhenghua Xue, Qin Li, Darren Sawyer,
+	             Vangel Bojaxhi, Ben England, Vikentsi Lapa,
+	             Alexey Skidanov, Sudhir Kumar.
+
+	Run began: Sat Oct 24 08:14:05 2026
+
+	O_DIRECT feature enabled
+	File size set to 1048576 kB
+	Record Size 4 kB
+	Command line used: iozone -i 0 -i 1 -I -s 1g -r 4k -f /home/administrador/iozone_ficheiro
+	Output is in kBytes/sec
+	Time Resolution = 0.000001 seconds.
+	Processor cache size set to 1024 kBytes.
+	Processor cache line size set to 32 bytes.
+	File stride size set to 17 * record size.
+                                                                    random    random      bkwd     record     stride                                        
+              kB  reclen    write    rewrite      read    reread      read     write      read    rewrite       read    fwrite  frewrite     fread   freread
+         1048576       4     57683     63961     40454     42331                                                                                  
+
+iozone test complete.
+##### Disco seq. escrita (fio 1M) (1/10)
+3;fio-3.41;teste;0;0;0;0;0;0;0;0;0.000000;0.000000;0;0;0.000000;0.000000;1.000000%=0;5.000000%=0;10.000000%=0;20.000000%=0;30.000000%=0;40.000000%=0;50.000000%=0;60.000000%=0;70.000000%=0;80.000000%=0;90.000000%=0;95.000000%=0;99.000000%=0;99.500000%=0;99.900000%=0;99.950000%=0;99.990000%=0;0%=0;0%=0;0%=0;0;0;0.000000;0.000000;0;0;0.000000%;0.000000;0.000000;36587520;1219380;1190;30005;52;4929;135.447353;78.966052;496;200253;6581.790178;6753.945742;1.000000%=2834;5.000000%=4358;10.000000%=4816;20.000000%=5210;30.000000%=5341;40.000000%=5668;50.000000%=5996;60.000000%=6586;70.000000%=6782;80.000000%=7438;90.000000%=7766;95.000000%=8093;99.000000%=13041;99.500000%=14876;99.900000%=135266;99.950000%=149946;99.990000%=198180;0%=0;0%=0;0%=0;656;200354;6717.238874;6753.765471;910656;1468708;100.000000%;1239103.027027;119712.123638;6.319157%;10.585255%;33217;0;36;0.0%;0.0%;0.0%;100.0%;0.0%;0.0%;0.0%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;0.01%;0.01%;0.03%;0.22%;3.47%;94.00%;1.84%;0.13%;0.11%;0.20%;0.00%;0.00%;0.00%;0.00%;0.00%;sda;0;82405;0;37;0;512201;512286;92.76%
+##### Disco seq. escrita (fio 1M) (2/10)
+3;fio-3.41;teste;0;0;0;0;0;0;0;0;0.000000;0.000000;0;0;0.000000;0.000000;1.000000%=0;5.000000%=0;10.000000%=0;20.000000%=0;30.000000%=0;40.000000%=0;50.000000%=0;60.000000%=0;70.000000%=0;80.000000%=0;90.000000%=0;95.000000%=0;99.000000%=0;99.500000%=0;99.900000%=0;99.950000%=0;99.990000%=0;0%=0;0%=0;0%=0;0;0;0.000000;0.000000;0;0;0.000000%;0.000000;0.000000;36335616;1210904;1182;30007;51;8012;124.708781;85.599090;498;169025;6639.583790;7444.000611;1.000000%=2801;5.000000%=4358;10.000000%=4751;20.000000%=5210;30.000000%=5406;40.000000%=5734;50.000000%=6062;60.000000%=6586;70.000000%=6914;80.000000%=7569;90.000000%=7897;95.000000%=8159;99.000000%=12779;99.500000%=14221;99.900000%=156237;99.950000%=162529;99.990000%=166723;0%=0;0%=0;0%=0;662;169154;6764.290436;7443.313685;904648;1505280;99.973303%;1210580.720000;132845.329191;3.722589%;11.860961%;33130;0;36;0.0%;0.0%;0.0%;100.0%;0.0%;0.0%;0.0%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;0.01%;0.02%;0.04%;0.27%;4.06%;93.47%;1.89%;0.00%;0.00%;0.27%;0.00%;0.00%;0.00%;0.00%;0.00%;sda;0;82437;0;7;0;513430;513519;89.27%
+##### Disco seq. escrita (fio 1M) (3/10)
+3;fio-3.41;teste;0;0;0;0;0;0;0;0;0.000000;0.000000;0;0;0.000000;0.000000;1.000000%=0;5.000000%=0;10.000000%=0;20.000000%=0;30.000000%=0;40.000000%=0;50.000000%=0;60.000000%=0;70.000000%=0;80.000000%=0;90.000000%=0;95.000000%=0;99.000000%=0;99.500000%=0;99.900000%=0;99.950000%=0;99.990000%=0;0%=0;0%=0;0%=0;0;0;0.000000;0.000000;0;0;0.000000%;0.000000;0.000000;34987008;1166000;1138;30006;56;5045;136.947589;92.868254;552;159117;6887.325872;6758.915791;1.000000%=2801;5.000000%=4489;10.000000%=5079;20.000000%=5472;30.000000%=5734;40.000000%=5996;50.000000%=6455;60.000000%=6914;70.000000%=7176;80.000000%=7831;90.000000%=8290;95.000000%=8585;99.000000%=13303;99.500000%=14614;99.900000%=143654;99.950000%=147849;99.990000%=158334;0%=0;0%=0;0%=0;689;159213;7024.283395;6758.598498;825344;1517568;100.000000%;1167053.600000;152834.521281;7.038827%;9.678387%;32033;0;36;0.0%;0.0%;0.0%;100.0%;0.0%;0.0%;0.0%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;0.03%;0.05%;0.28%;4.15%;93.35%;1.91%;0.00%;0.00%;0.26%;0.00%;0.00%;0.00%;0.00%;0.00%;sda;0;79611;0;15;0;514925;515005;88.40%
+##### Disco seq. escrita (fio 1M) (4/10)
+3;fio-3.41;teste;0;0;0;0;0;0;0;0;0.000000;0.000000;0;0;0.000000;0.000000;1.000000%=0;5.000000%=0;10.000000%=0;20.000000%=0;30.000000%=0;40.000000%=0;50.000000%=0;60.000000%=0;70.000000%=0;80.000000%=0;90.000000%=0;95.000000%=0;99.000000%=0;99.500000%=0;99.900000%=0;99.950000%=0;99.990000%=0;0%=0;0%=0;0%=0;0;0;0.000000;0.000000;0;0;0.000000%;0.000000;0.000000;36109312;1203483;1175;30004;45;6277;122.467807;85.603946;439;162476;6683.685565;7460.517910;1.000000%=2703;5.000000%=4423;10.000000%=4816;20.000000%=5275;30.000000%=5537;40.000000%=5734;50.000000%=6062;60.000000%=6717;70.000000%=6914;80.000000%=7569;90.000000%=7962;95.000000%=8224;99.000000%=12779;99.500000%=14221;99.900000%=154140;99.950000%=156237;99.990000%=160432;0%=0;0%=0;0%=0;554;162628;6806.152427;7462.043480;829440;1607680;99.380884%;1196032.041667;151681.125701;6.102723%;9.072426%;32599;0;36;0.0%;0.0%;0.0%;100.0%;0.0%;0.0%;0.0%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;0.01%;0.02%;0.07%;0.26%;4.08%;93.45%;1.86%;0.00%;0.00%;0.27%;0.00%;0.00%;0.00%;0.00%;0.00%;sda;0;82038;0;12;0;515254;515494;90.77%
+##### Disco seq. escrita (fio 1M) (5/10)
+3;fio-3.41;teste;0;0;0;0;0;0;0;0;0.000000;0.000000;0;0;0.000000;0.000000;1.000000%=0;5.000000%=0;10.000000%=0;20.000000%=0;30.000000%=0;40.000000%=0;50.000000%=0;60.000000%=0;70.000000%=0;80.000000%=0;90.000000%=0;95.000000%=0;99.000000%=0;99.500000%=0;99.900000%=0;99.950000%=0;99.990000%=0;0%=0;0%=0;0%=0;0;0;0.000000;0.000000;0;0;0.000000%;0.000000;0.000000;27756544;924755;902;30015;42;9857;175.640429;132.052884;517;161757;8680.701846;7642.816276;1.000000%=2637;5.000000%=4685;10.000000%=5275;20.000000%=5668;30.000000%=5931;40.000000%=6848;50.000000%=7241;60.000000%=7897;70.000000%=8585;80.000000%=11075;90.000000%=14352;95.000000%=15400;99.000000%=16908;99.500000%=19791;99.900000%=133693;99.950000%=141557;99.990000%=162529;0%=0;0%=0;0%=0;645;162138;8856.343294;7639.351378;137996;1423341;100.000000%;1061193.583333;257235.174087;5.294196%;11.521290%;25723;0;36;0.0%;0.0%;0.0%;100.0%;0.0%;0.0%;0.0%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;0.01%;0.03%;0.24%;2.96%;72.67%;23.65%;0.11%;0.07%;0.29%;0.00%;0.00%;0.00%;0.00%;0.00%;sda;0;62460;0;9;0;472230;472329;90.39%
+##### Disco seq. escrita (fio 1M) (6/10)
+3;fio-3.41;teste;0;0;0;0;0;0;0;0;0.000000;0.000000;0;0;0.000000;0.000000;1.000000%=0;5.000000%=0;10.000000%=0;20.000000%=0;30.000000%=0;40.000000%=0;50.000000%=0;60.000000%=0;70.000000%=0;80.000000%=0;90.000000%=0;95.000000%=0;99.000000%=0;99.500000%=0;99.900000%=0;99.950000%=0;99.990000%=0;0%=0;0%=0;0%=0;0;0;0.000000;0.000000;0;0;0.000000%;0.000000;0.000000;33699840;1123065;1096;30007;45;5524;201.337409;134.594531;450;153190;7091.128930;6913.633519;1.000000%=2637;5.000000%=4554;10.000000%=5210;20.000000%=5603;30.000000%=5799;40.000000%=6062;50.000000%=6848;60.000000%=7241;70.000000%=7503;80.000000%=8028;90.000000%=8355;95.000000%=8585;99.000000%=13434;99.500000%=14745;99.900000%=139460;99.950000%=143654;99.990000%=147849;0%=0;0%=0;0%=0;532;153529;7292.469181;6911.440557;806912;1640448;100.000000%;1123770.406780;159747.084477;7.188562%;15.993468%;29506;0;36;0.0%;0.0%;0.0%;100.0%;0.0%;0.0%;0.0%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;0.01%;0.02%;0.06%;0.26%;3.28%;94.23%;1.87%;0.00%;0.00%;0.29%;0.00%;0.00%;0.00%;0.00%;0.00%;sda;0;73732;0;9;0;509371;509448;86.28%
+##### Disco seq. escrita (fio 1M) (7/10)
+3;fio-3.41;teste;0;0;0;0;0;0;0;0;0.000000;0.000000;0;0;0.000000;0.000000;1.000000%=0;5.000000%=0;10.000000%=0;20.000000%=0;30.000000%=0;40.000000%=0;50.000000%=0;60.000000%=0;70.000000%=0;80.000000%=0;90.000000%=0;95.000000%=0;99.000000%=0;99.500000%=0;99.900000%=0;99.950000%=0;99.990000%=0;0%=0;0%=0;0%=0;0;0;0.000000;0.000000;0;0;0.000000%;0.000000;0.000000;34329600;1144053;1117;30007;47;5059;158.231518;102.888417;553;153029;7001.054345;6899.618673;1.000000%=2637;5.000000%=4489;10.000000%=5210;20.000000%=5603;30.000000%=5799;40.000000%=5996;50.000000%=6651;60.000000%=7110;70.000000%=7372;80.000000%=7897;90.000000%=8355;95.000000%=8585;99.000000%=13172;99.500000%=14614;99.900000%=132644;99.950000%=141557;99.990000%=152043;0%=0;0%=0;0%=0;666;153286;7159.286887;6899.836819;417474;1271582;97.482564%;1115252.200000;160365.729206;5.085650%;13.423982%;31227;0;36;0.0%;0.0%;0.0%;100.0%;0.0%;0.0%;0.0%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;0.03%;0.08%;0.23%;3.88%;93.64%;1.88%;0.00%;0.00%;0.29%;0.00%;0.00%;0.00%;0.00%;0.00%;sda;0;75693;0;15;0;497645;497867;88.05%
+##### Disco seq. escrita (fio 1M) (8/10)
+3;fio-3.41;teste;0;0;0;0;0;0;0;0;0.000000;0.000000;0;0;0.000000;0.000000;1.000000%=0;5.000000%=0;10.000000%=0;20.000000%=0;30.000000%=0;40.000000%=0;50.000000%=0;60.000000%=0;70.000000%=0;80.000000%=0;90.000000%=0;95.000000%=0;99.000000%=0;99.500000%=0;99.900000%=0;99.950000%=0;99.990000%=0;0%=0;0%=0;0%=0;0;0;0.000000;0.000000;0;0;0.000000%;0.000000;0.000000;35783680;1192550;1164;30006;59;4773;123.618767;71.710720;430;159144;6744.746257;6990.499628;1.000000%=2768;5.000000%=4489;10.000000%=4947;20.000000%=5341;30.000000%=5537;40.000000%=5799;50.000000%=6193;60.000000%=6782;70.000000%=6979;80.000000%=7700;90.000000%=8028;95.000000%=8290;99.000000%=12910;99.500000%=14483;99.900000%=143654;99.950000%=152043;99.990000%=156237;0%=0;0%=0;0%=0;546;159260;6868.365049;6989.805742;877714;1513472;99.862231%;1190907.031250;135303.114958;6.335611%;8.905182%;32880;0;36;0.0%;0.0%;0.0%;100.0%;0.0%;0.0%;0.0%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;0.03%;0.01%;0.03%;0.20%;4.02%;93.58%;1.87%;0.00%;0.00%;0.27%;0.00%;0.00%;0.00%;0.00%;0.00%;sda;0;77326;0;9;0;490517;490595;92.15%
+##### Disco seq. escrita (fio 1M) (9/10)
+3;fio-3.41;teste;0;0;0;0;0;0;0;0;0.000000;0.000000;0;0;0.000000;0.000000;1.000000%=0;5.000000%=0;10.000000%=0;20.000000%=0;30.000000%=0;40.000000%=0;50.000000%=0;60.000000%=0;70.000000%=0;80.000000%=0;90.000000%=0;95.000000%=0;99.000000%=0;99.500000%=0;99.900000%=0;99.950000%=0;99.990000%=0;0%=0;0%=0;0%=0;0;0;0.000000;0.000000;0;0;0.000000%;0.000000;0.000000;17756160;591674;577;30010;60;9789;155.424909;167.994712;1750;257597;13690.715030;9611.074074;1.000000%=8978;5.000000%=9633;10.000000%=10027;20.000000%=10551;30.000000%=12255;40.000000%=13041;50.000000%=13697;60.000000%=14221;70.000000%=14745;80.000000%=15269;90.000000%=15794;95.000000%=16318;99.000000%=18219;99.500000%=20316;99.900000%=219152;99.950000%=221249;99.990000%=256901;0%=0;0%=0;0%=0;2093;257731;13846.127983;9609.340173;307200;649216;100.000000%;592080.983333;67147.020719;3.335666%;6.078177%;16163;0;36;0.0%;0.0%;0.0%;100.0%;0.0%;0.0%;0.0%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;0.01%;0.00%;8.84%;90.67%;0.29%;0.00%;0.18%;0.05%;0.00%;0.00%;0.00%;0.00%;sda;0;43605;0;7;0;523259;523447;91.81%
+##### Disco seq. escrita (fio 1M) (10/10)
+3;fio-3.41;teste;0;0;0;0;0;0;0;0;0.000000;0.000000;0;0;0.000000;0.000000;1.000000%=0;5.000000%=0;10.000000%=0;20.000000%=0;30.000000%=0;40.000000%=0;50.000000%=0;60.000000%=0;70.000000%=0;80.000000%=0;90.000000%=0;95.000000%=0;99.000000%=0;99.500000%=0;99.900000%=0;99.950000%=0;99.990000%=0;0%=0;0%=0;0%=0;0;0;0.000000;0.000000;0;0;0.000000%;0.000000;0.000000;20154368;671498;655;30014;58;9900;160.640662;141.960897;1043;236676;12039.734088;10831.338236;1.000000%=4423;5.000000%=5275;10.000000%=5931;20.000000%=7634;30.000000%=9764;40.000000%=10682;50.000000%=12386;60.000000%=13303;70.000000%=14221;80.000000%=14876;90.000000%=15532;95.000000%=16056;99.000000%=17956;99.500000%=19791;99.900000%=217055;99.950000%=231735;99.990000%=233832;0%=0;0%=0;0%=0;1323;236776;12200.362215;10828.328500;433518;1338920;100.000000%;722944.900000;259407.640902;3.018692%;7.866591%;18611;0;36;0.0%;0.0%;0.0%;100.0%;0.0%;0.0%;0.0%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;0.06%;0.71%;31.28%;67.49%;0.20%;0.00%;0.28%;0.00%;0.00%;0.00%;0.00%;0.00%;sda;0;43882;0;10;0;503868;504053;92.61%
+##### Disco seq. leitura (fio 1M) (1/10)
+3;fio-3.41;teste;0;0;32743424;1091120;1065;30009;16;946;53.057269;36.329513;3110;27404;7454.307378;1612.291328;1.000000%=4358;5.000000%=5210;10.000000%=5668;20.000000%=6455;30.000000%=6914;40.000000%=7176;50.000000%=7438;60.000000%=7634;70.000000%=7831;80.000000%=8093;90.000000%=8716;95.000000%=9764;99.000000%=13828;99.500000%=15663;99.900000%=19791;99.950000%=21364;99.990000%=23199;0%=0;0%=0;0%=0;3159;27442;7507.363146;1610.537751;643398;1295558;100.000000%;1097998.074074;111182.901328;0;0;0;0;0;0;0.000000;0.000000;0;0;0.000000;0.000000;1.000000%=0;5.000000%=0;10.000000%=0;20.000000%=0;30.000000%=0;40.000000%=0;50.000000%=0;60.000000%=0;70.000000%=0;80.000000%=0;90.000000%=0;95.000000%=0;99.000000%=0;99.500000%=0;99.900000%=0;99.950000%=0;99.990000%=0;0%=0;0%=0;0%=0;0;0;0.000000;0.000000;0;0;0.000000%;0.000000;0.000000;0.473207%;5.741802%;30955;0;36;0.0%;0.0%;0.0%;100.0%;0.0%;0.0%;0.0%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;0.28%;95.11%;4.56%;0.08%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;sda;73046;28;0;1;531266;183;531465;94.18%
+##### Disco seq. leitura (fio 1M) (2/10)
+3;fio-3.41;teste;0;0;34925568;1163914;1136;30007;23;874;55.630562;40.928143;2379;15918;6981.759767;1217.747891;1.000000%=4358;5.000000%=4947;10.000000%=5341;20.000000%=5931;30.000000%=6455;40.000000%=6848;50.000000%=7110;60.000000%=7372;70.000000%=7569;80.000000%=7831;90.000000%=8093;95.000000%=8585;99.000000%=10682;99.500000%=12255;99.900000%=13828;99.950000%=14090;99.990000%=14876;0%=0;0%=0;0%=0;2437;15962;7037.396275;1209.457540;1087361;1266545;99.524449%;1158379.000000;38053.970285;0;0;0;0;0;0;0.000000;0.000000;0;0;0.000000;0.000000;1.000000%=0;5.000000%=0;10.000000%=0;20.000000%=0;30.000000%=0;40.000000%=0;50.000000%=0;60.000000%=0;70.000000%=0;80.000000%=0;90.000000%=0;95.000000%=0;99.000000%=0;99.500000%=0;99.900000%=0;99.950000%=0;99.990000%=0;0%=0;0%=0;0%=0;0;0;0.000000;0.000000;0;0;0.000000%;0.000000;0.000000;0.453243%;6.798640%;32567;0;36;0.0%;0.0%;0.0%;100.0%;0.0%;0.0%;0.0%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;0.28%;98.33%;1.41%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;sda;74702;5;0;1;542867;38;542923;94.88%
+##### Disco seq. leitura (fio 1M) (3/10)
+3;fio-3.41;teste;0;0;34086912;1136041;1109;30005;17;859;57.985931;35.496784;3169;15024;7151.928155;1258.860775;1.000000%=4423;5.000000%=5079;10.000000%=5537;20.000000%=6127;30.000000%=6651;40.000000%=7045;50.000000%=7241;60.000000%=7503;70.000000%=7700;80.000000%=7962;90.000000%=8224;95.000000%=8847;99.000000%=11993;99.500000%=13041;99.900000%=13959;99.950000%=14352;99.990000%=14614;0%=0;0%=0;0%=0;3222;15110;7209.915958;1251.810591;1017856;1239470;100.000000%;1136988.133333;46391.319416;0;0;0;0;0;0;0.000000;0.000000;0;0;0.000000;0.000000;1.000000%=0;5.000000%=0;10.000000%=0;20.000000%=0;30.000000%=0;40.000000%=0;50.000000%=0;60.000000%=0;70.000000%=0;80.000000%=0;90.000000%=0;95.000000%=0;99.000000%=0;99.500000%=0;99.900000%=0;99.950000%=0;99.990000%=0;0%=0;0%=0;0%=0;0;0;0.000000;0.000000;0;0;0.000000%;0.000000;0.000000;0.443274%;7.029063%;32366;0;36;0.0%;0.0%;0.0%;100.0%;0.0%;0.0%;0.0%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;0.16%;97.81%;2.06%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;sda;77824;7;0;2;544668;65;544772;93.33%
+##### Disco seq. leitura (fio 1M) (4/10)
+3;fio-3.41;teste;0;0;34233344;1140807;1113;30008;22;612;59.931498;36.257776;3385;15178;7119.993881;1284.569717;1.000000%=4489;5.000000%=5079;10.000000%=5472;20.000000%=6062;30.000000%=6586;40.000000%=6979;50.000000%=7176;60.000000%=7438;70.000000%=7700;80.000000%=7897;90.000000%=8224;95.000000%=8847;99.000000%=12124;99.500000%=13041;99.900000%=14090;99.950000%=14352;99.990000%=14876;0%=0;0%=0;0%=0;3516;15229;7179.922623;1276.350081;1058816;1238610;100.000000%;1145950.568627;41645.925435;0;0;0;0;0;0;0.000000;0.000000;0;0;0.000000;0.000000;1.000000%=0;5.000000%=0;10.000000%=0;20.000000%=0;30.000000%=0;40.000000%=0;50.000000%=0;60.000000%=0;70.000000%=0;80.000000%=0;90.000000%=0;95.000000%=0;99.000000%=0;99.500000%=0;99.900000%=0;99.950000%=0;99.990000%=0;0%=0;0%=0;0%=0;0;0;0.000000;0.000000;0;0;0.000000%;0.000000;0.000000;0.386576%;7.308295%;32695;0;36;0.0%;0.0%;0.0%;100.0%;0.0%;0.0%;0.0%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;0.16%;97.58%;2.28%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;sda;78328;35;0;5;542312;184;542525;93.42%
+##### Disco seq. leitura (fio 1M) (5/10)
+3;fio-3.41;teste;0;0;35566592;1185316;1157;30006;15;915;51.054590;39.353559;3021;15432;6859.671485;1246.140952;1.000000%=4227;5.000000%=4816;10.000000%=5210;20.000000%=5734;30.000000%=6258;40.000000%=6717;50.000000%=7045;60.000000%=7241;70.000000%=7503;80.000000%=7766;90.000000%=8093;95.000000%=8454;99.000000%=10420;99.500000%=12124;99.900000%=13828;99.950000%=14352;99.990000%=14745;0%=0;0%=0;0%=0;3069;15476;6910.729912;1238.923913;344369;1212021;94.223509%;1116846.333333;195152.446163;0;0;0;0;0;0;0.000000;0.000000;0;0;0.000000;0.000000;1.000000%=0;5.000000%=0;10.000000%=0;20.000000%=0;30.000000%=0;40.000000%=0;50.000000%=0;60.000000%=0;70.000000%=0;80.000000%=0;90.000000%=0;95.000000%=0;99.000000%=0;99.500000%=0;99.900000%=0;99.950000%=0;99.990000%=0;0%=0;0%=0;0%=0;0;0;0.000000;0.000000;0;0;0.000000%;0.000000;0.000000;0.209965%;6.355607%;32940;0;36;0.0%;0.0%;0.0%;100.0%;0.0%;0.0%;0.0%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;0.36%;98.49%;1.17%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;sda;78121;6;0;4;527216;54;527306;95.70%
+##### Disco seq. leitura (fio 1M) (6/10)
+3;fio-3.41;teste;0;0;33356800;1111522;1085;30010;15;783;54.925650;40.648098;3221;20893;7314.535618;1883.700833;1.000000%=4358;5.000000%=4947;10.000000%=5341;20.000000%=5865;30.000000%=6389;40.000000%=6848;50.000000%=7176;60.000000%=7438;70.000000%=7700;80.000000%=7962;90.000000%=9371;95.000000%=11862;99.000000%=13565;99.500000%=14090;99.900000%=15269;99.950000%=15663;99.990000%=16711;0%=0;0%=0;0%=0;3275;20941;7369.459389;1878.706027;714132;1290240;95.969837%;1066725.852941;188281.627923;0;0;0;0;0;0;0.000000;0.000000;0;0;0.000000;0.000000;1.000000%=0;5.000000%=0;10.000000%=0;20.000000%=0;30.000000%=0;40.000000%=0;50.000000%=0;60.000000%=0;70.000000%=0;80.000000%=0;90.000000%=0;95.000000%=0;99.000000%=0;99.500000%=0;99.900000%=0;99.950000%=0;99.990000%=0;0%=0;0%=0;0%=0;0;0;0.000000;0.000000;0;0;0.000000%;0.000000;0.000000;0.233263%;6.494718%;31153;0;36;0.0%;0.0%;0.0%;100.0%;0.0%;0.0%;0.0%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;0.28%;90.86%;8.88%;0.01%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;sda;76274;4;0;1;544131;36;544182;97.35%
+##### Disco seq. leitura (fio 1M) (7/10)
+3;fio-3.41;teste;0;0;36387840;1212604;1183;30008;18;850;54.504660;46.581712;2636;15382;6700.444251;1275.733650;1.000000%=4177;5.000000%=4685;10.000000%=5013;20.000000%=5537;30.000000%=5996;40.000000%=6455;50.000000%=6848;60.000000%=7176;70.000000%=7438;80.000000%=7700;90.000000%=8028;95.000000%=8454;99.000000%=10158;99.500000%=11730;99.900000%=13565;99.950000%=14090;99.990000%=14745;0%=0;0%=0;0%=0;2680;15421;6754.946913;1266.071657;932713;1302266;97.590135%;1183381.875000;84362.095847;0;0;0;0;0;0;0.000000;0.000000;0;0;0.000000;0.000000;1.000000%=0;5.000000%=0;10.000000%=0;20.000000%=0;30.000000%=0;40.000000%=0;50.000000%=0;60.000000%=0;70.000000%=0;80.000000%=0;90.000000%=0;95.000000%=0;99.000000%=0;99.500000%=0;99.900000%=0;99.950000%=0;99.990000%=0;0%=0;0%=0;0%=0;0;0;0.000000;0.000000;0;0;0.000000%;0.000000;0.000000;0.086646%;7.068351%;33356;0;36;0.0%;0.0%;0.0%;100.0%;0.0%;0.0%;0.0%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;0.54%;98.38%;1.10%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;sda;78881;4;0;1;543330;31;543381;94.48%
+##### Disco seq. leitura (fio 1M) (8/10)
+3;fio-3.41;teste;0;0;34668544;1155310;1127;30008;18;525;57.057400;32.456421;3106;15026;7032.815815;1229.794121;1.000000%=4358;5.000000%=4947;10.000000%=5406;20.000000%=5996;30.000000%=6520;40.000000%=6914;50.000000%=7176;60.000000%=7372;70.000000%=7634;80.000000%=7897;90.000000%=8159;95.000000%=8585;99.000000%=11075;99.500000%=12779;99.900000%=13697;99.950000%=14090;99.990000%=14745;0%=0;0%=0;0%=0;3181;15081;7089.880160;1222.959020;1052672;1261568;100.000000%;1155636.980769;49494.779168;0;0;0;0;0;0;0.000000;0.000000;0;0;0.000000;0.000000;1.000000%=0;5.000000%=0;10.000000%=0;20.000000%=0;30.000000%=0;40.000000%=0;50.000000%=0;60.000000%=0;70.000000%=0;80.000000%=0;90.000000%=0;95.000000%=0;99.000000%=0;99.500000%=0;99.900000%=0;99.950000%=0;99.990000%=0;0%=0;0%=0;0%=0;0;0;0.000000;0.000000;0;0;0.000000%;0.000000;0.000000;0.393242%;6.985037%;33175;0;36;0.0%;0.0%;0.0%;100.0%;0.0%;0.0%;0.0%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;0.18%;98.40%;1.44%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;sda;78484;4;0;2;541721;38;541777;95.54%
+##### Disco seq. leitura (fio 1M) (9/10)
+3;fio-3.41;teste;0;0;33558528;1118319;1091;30008;33;698;56.875939;35.072287;3388;18419;7267.763711;1685.243918;1.000000%=4423;5.000000%=5013;10.000000%=5406;20.000000%=5996;30.000000%=6520;40.000000%=6979;50.000000%=7241;60.000000%=7438;70.000000%=7700;80.000000%=7962;90.000000%=8716;95.000000%=10944;99.000000%=13434;99.500000%=13959;99.900000%=15007;99.950000%=15400;99.990000%=16187;0%=0;0%=0;0%=0;3437;18480;7324.637948;1680.032137;709667;1207918;97.543586%;1090848.450000;151523.971109;0;0;0;0;0;0;0.000000;0.000000;0;0;0.000000;0.000000;1.000000%=0;5.000000%=0;10.000000%=0;20.000000%=0;30.000000%=0;40.000000%=0;50.000000%=0;60.000000%=0;70.000000%=0;80.000000%=0;90.000000%=0;95.000000%=0;99.000000%=0;99.500000%=0;99.900000%=0;99.950000%=0;99.990000%=0;0%=0;0%=0;0%=0;0;0;0.000000;0.000000;0;0;0.000000%;0.000000;0.000000;0.426567%;6.428500%;32106;0;36;0.0%;0.0%;0.0%;100.0%;0.0%;0.0%;0.0%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;0.16%;93.62%;6.25%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;sda;76650;8;0;4;542277;75;542371;94.42%
+##### Disco seq. leitura (fio 1M) (10/10)
+3;fio-3.41;teste;0;0;34123776;1137155;1110;30008;17;800;54.955524;37.962957;3158;16328;7148.801449;1484.373992;1.000000%=4423;5.000000%=5013;10.000000%=5406;20.000000%=5996;30.000000%=6520;40.000000%=6914;50.000000%=7176;60.000000%=7372;70.000000%=7634;80.000000%=7897;90.000000%=8290;95.000000%=9371;99.000000%=13041;99.500000%=13565;99.900000%=14614;99.950000%=15269;99.990000%=15925;0%=0;0%=0;0%=0;3195;16433;7203.759672;1478.443095;768988;1272062;98.765813%;1123120.379310;99767.246090;0;0;0;0;0;0;0.000000;0.000000;0;0;0.000000;0.000000;1.000000%=0;5.000000%=0;10.000000%=0;20.000000%=0;30.000000%=0;40.000000%=0;50.000000%=0;60.000000%=0;70.000000%=0;80.000000%=0;90.000000%=0;95.000000%=0;99.000000%=0;99.500000%=0;99.900000%=0;99.950000%=0;99.990000%=0;0%=0;0%=0;0%=0;0;0;0.000000;0.000000;0;0;0.000000%;0.000000;0.000000;0.299930%;6.501816%;32294;0;36;0.0%;0.0%;0.0%;100.0%;0.0%;0.0%;0.0%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;0.19%;95.80%;4.03%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;sda;66985;4;0;1;497000;38;497061;97.57%
+##### Disco aleat. escrita (fio 4k) (1/10)
+3;fio-3.41;teste;0;0;0;0;0;0;0;0;0.000000;0.000000;0;0;0.000000;0.000000;1.000000%=0;5.000000%=0;10.000000%=0;20.000000%=0;30.000000%=0;40.000000%=0;50.000000%=0;60.000000%=0;70.000000%=0;80.000000%=0;90.000000%=0;95.000000%=0;99.000000%=0;99.500000%=0;99.900000%=0;99.950000%=0;99.990000%=0;0%=0;0%=0;0%=0;0;0;0.000000;0.000000;0;0;0.000000%;0.000000;0.000000;5512896;183757;45938;30001;2;411;19.162147;8.002868;77;36784;676.904467;184.245343;1.000000%=382;5.000000%=544;10.000000%=610;20.000000%=651;30.000000%=659;40.000000%=667;50.000000%=675;60.000000%=684;70.000000%=692;80.000000%=708;90.000000%=741;95.000000%=798;99.000000%=897;99.500000%=929;99.900000%=1089;99.950000%=1253;99.990000%=7831;0%=0;0%=0;0%=0;86;36794;696.066616;184.549434;46531;194624;98.853241%;181649.750000;19887.055465;2.836667%;90.433333%;35973;0;36;0.0%;0.0%;0.0%;0.0%;0.0%;100.0%;0.0%;0.00%;0.00%;0.00%;0.00%;0.00%;0.01%;0.07%;3.49%;87.23%;9.00%;0.18%;0.01%;0.02%;0.01%;0.01%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;sda;0;1584155;0;13;0;498010;498096;33.94%
+##### Disco aleat. escrita (fio 4k) (2/10)
+3;fio-3.41;teste;0;0;0;0;0;0;0;0;0.000000;0.000000;0;0;0.000000;0.000000;1.000000%=0;5.000000%=0;10.000000%=0;20.000000%=0;30.000000%=0;40.000000%=0;50.000000%=0;60.000000%=0;70.000000%=0;80.000000%=0;90.000000%=0;95.000000%=0;99.000000%=0;99.500000%=0;99.900000%=0;99.950000%=0;99.990000%=0;0%=0;0%=0;0%=0;0;0;0.000000;0.000000;0;0;0.000000%;0.000000;0.000000;5284412;176141;44034;30001;2;1181;20.185789;9.405763;63;9919;705.988216;123.790406;1.000000%=387;5.000000%=561;10.000000%=634;20.000000%=667;30.000000%=684;40.000000%=692;50.000000%=700;60.000000%=716;70.000000%=724;80.000000%=741;90.000000%=798;95.000000%=847;99.000000%=921;99.500000%=970;99.900000%=1204;99.950000%=1892;99.990000%=5537;0%=0;0%=0;0%=0;75;9921;726.174025;124.759105;9746;185988;97.604340%;171921.260870;35590.272211;3.793333%;90.033333%;32650;0;36;0.0%;0.0%;0.0%;0.0%;0.0%;100.0%;0.0%;0.00%;0.00%;0.00%;0.00%;0.00%;0.01%;0.04%;3.13%;78.30%;18.18%;0.32%;0.02%;0.02%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;sda;0;1537448;0;10;0;542534;542619;54.36%
+##### Disco aleat. escrita (fio 4k) (3/10)
+3;fio-3.41;teste;0;0;0;0;0;0;0;0;0.000000;0.000000;0;0;0.000000;0.000000;1.000000%=0;5.000000%=0;10.000000%=0;20.000000%=0;30.000000%=0;40.000000%=0;50.000000%=0;60.000000%=0;70.000000%=0;80.000000%=0;90.000000%=0;95.000000%=0;99.000000%=0;99.500000%=0;99.900000%=0;99.950000%=0;99.990000%=0;0%=0;0%=0;0%=0;0;0;0.000000;0.000000;0;0;0.000000%;0.000000;0.000000;5281568;176046;44010;30001;2;2533;20.427599;11.054229;65;14431;706.173875;125.919450;1.000000%=399;5.000000%=561;10.000000%=626;20.000000%=659;30.000000%=667;40.000000%=684;50.000000%=700;60.000000%=708;70.000000%=733;80.000000%=765;90.000000%=815;95.000000%=847;99.000000%=929;99.500000%=995;99.900000%=1236;99.950000%=1777;99.990000%=5210;0%=0;0%=0;0%=0;83;14434;726.601432;127.170553;154844;193601;100.000000%;177612.444444;12364.459519;3.936667%;90.660000%;28687;0;36;0.0%;0.0%;0.0%;0.0%;0.0%;100.0%;0.0%;0.00%;0.00%;0.00%;0.00%;0.00%;0.01%;0.02%;2.90%;72.79%;23.81%;0.44%;0.02%;0.02%;0.01%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;sda;0;1407306;0;6;0;439324;439394;34.99%
+##### Disco aleat. escrita (fio 4k) (4/10)
+3;fio-3.41;teste;0;0;0;0;0;0;0;0;0.000000;0.000000;0;0;0.000000;0.000000;1.000000%=0;5.000000%=0;10.000000%=0;20.000000%=0;30.000000%=0;40.000000%=0;50.000000%=0;60.000000%=0;70.000000%=0;80.000000%=0;90.000000%=0;95.000000%=0;99.000000%=0;99.500000%=0;99.900000%=0;99.950000%=0;99.990000%=0;0%=0;0%=0;0%=0;0;0;0.000000;0.000000;0;0;0.000000%;0.000000;0.000000;5449048;181628;45406;30001;1;547;19.331222;7.418328;69;9475;684.847845;111.035787;1.000000%=382;5.000000%=552;10.000000%=618;20.000000%=651;30.000000%=659;40.000000%=675;50.000000%=684;60.000000%=692;70.000000%=708;80.000000%=733;90.000000%=757;95.000000%=798;99.000000%=897;99.500000%=937;99.900000%=1089;99.950000%=1204;99.990000%=5275;0%=0;0%=0;0%=0;85;9478;704.178907;111.593623;157573;189126;97.755014%;177550.476190;7038.174860;4.280000%;88.856667%;37057;0;36;0.0%;0.0%;0.0%;0.0%;0.0%;100.0%;0.0%;0.00%;0.00%;0.00%;0.00%;0.00%;0.01%;0.06%;3.26%;84.39%;12.04%;0.21%;0.01%;0.02%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;sda;0;1571801;0;14;0;584027;584106;43.38%
+##### Disco aleat. escrita (fio 4k) (5/10)
+3;fio-3.41;teste;0;0;0;0;0;0;0;0;0.000000;0.000000;0;0;0.000000;0.000000;1.000000%=0;5.000000%=0;10.000000%=0;20.000000%=0;30.000000%=0;40.000000%=0;50.000000%=0;60.000000%=0;70.000000%=0;80.000000%=0;90.000000%=0;95.000000%=0;99.000000%=0;99.500000%=0;99.900000%=0;99.950000%=0;99.990000%=0;0%=0;0%=0;0%=0;0;0;0.000000;0.000000;0;0;0.000000%;0.000000;0.000000;5429272;180969;45241;30001;2;664;19.411955;6.402784;68;10499;687.470501;107.857195;1.000000%=374;5.000000%=536;10.000000%=618;20.000000%=659;30.000000%=675;40.000000%=684;50.000000%=692;60.000000%=708;70.000000%=716;80.000000%=724;90.000000%=749;95.000000%=765;99.000000%=888;99.500000%=970;99.900000%=1138;99.950000%=1220;99.990000%=4816;0%=0;0%=0;0%=0;90;10501;706.882429;108.061927;53511;188943;98.349619%;177982.321429;24599.948528;3.693333%;88.570000%;39096;0;36;0.0%;0.0%;0.0%;0.0%;0.0%;100.0%;0.0%;0.00%;0.00%;0.00%;0.00%;0.00%;0.01%;0.03%;3.70%;87.26%;8.62%;0.36%;0.01%;0.02%;0.01%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;sda;0;1568789;0;10;0;606922;606993;42.13%
+##### Disco aleat. escrita (fio 4k) (6/10)
+3;fio-3.41;teste;0;0;0;0;0;0;0;0;0.000000;0.000000;0;0;0.000000;0.000000;1.000000%=0;5.000000%=0;10.000000%=0;20.000000%=0;30.000000%=0;40.000000%=0;50.000000%=0;60.000000%=0;70.000000%=0;80.000000%=0;90.000000%=0;95.000000%=0;99.000000%=0;99.500000%=0;99.900000%=0;99.950000%=0;99.990000%=0;0%=0;0%=0;0%=0;0;0;0.000000;0.000000;0;0;0.000000%;0.000000;0.000000;5698280;189936;47483;30001;2;290;18.530969;5.063497;62;9785;654.908717;104.812720;1.000000%=378;5.000000%=544;10.000000%=618;20.000000%=643;30.000000%=651;40.000000%=659;50.000000%=667;60.000000%=667;70.000000%=675;80.000000%=675;90.000000%=692;95.000000%=708;99.000000%=774;99.500000%=831;99.900000%=978;99.950000%=1044;99.990000%=5931;0%=0;0%=0;0%=0;79;9788;673.439690;104.978150;143174;191266;95.790073%;181939.833333;19023.864943;3.003333%;89.900000%;42191;0;36;0.0%;0.0%;0.0%;0.0%;0.0%;100.0%;0.0%;0.00%;0.00%;0.00%;0.00%;0.00%;0.01%;0.10%;3.64%;94.82%;1.37%;0.05%;0.01%;0.02%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;sda;0;1432281;0;6;0;536318;536385;13.81%
+##### Disco aleat. escrita (fio 4k) (7/10)
+3;fio-3.41;teste;0;0;0;0;0;0;0;0;0.000000;0.000000;0;0;0.000000;0.000000;1.000000%=0;5.000000%=0;10.000000%=0;20.000000%=0;30.000000%=0;40.000000%=0;50.000000%=0;60.000000%=0;70.000000%=0;80.000000%=0;90.000000%=0;95.000000%=0;99.000000%=0;99.500000%=0;99.900000%=0;99.950000%=0;99.990000%=0;0%=0;0%=0;0%=0;0;0;0.000000;0.000000;0;0;0.000000%;0.000000;0.000000;5699504;189977;47493;30001;2;702;18.578387;5.844998;75;9276;654.824044;96.440476;1.000000%=378;5.000000%=536;10.000000%=602;20.000000%=634;30.000000%=651;40.000000%=651;50.000000%=659;60.000000%=667;70.000000%=675;80.000000%=684;90.000000%=700;95.000000%=724;99.000000%=806;99.500000%=888;99.900000%=1105;99.950000%=1302;99.990000%=5079;0%=0;0%=0;0%=0;94;9291;673.402423;96.689946;120719;197196;99.102474%;188271.906250;12695.206887;1.580000%;90.893333%;42057;0;36;0.0%;0.0%;0.0%;0.0%;0.0%;100.0%;0.0%;0.00%;0.00%;0.00%;0.00%;0.00%;0.01%;0.08%;3.65%;93.95%;2.15%;0.16%;0.01%;0.01%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;sda;0;1455871;0;10;0;548995;549051;23.39%
+##### Disco aleat. escrita (fio 4k) (8/10)
+3;fio-3.41;teste;0;0;0;0;0;0;0;0;0.000000;0.000000;0;0;0.000000;0.000000;1.000000%=0;5.000000%=0;10.000000%=0;20.000000%=0;30.000000%=0;40.000000%=0;50.000000%=0;60.000000%=0;70.000000%=0;80.000000%=0;90.000000%=0;95.000000%=0;99.000000%=0;99.500000%=0;99.900000%=0;99.950000%=0;99.990000%=0;0%=0;0%=0;0%=0;0;0;0.000000;0.000000;0;0;0.000000%;0.000000;0.000000;5684844;189488;47371;30001;2;532;18.612046;5.729295;68;9912;656.523665;110.363805;1.000000%=362;5.000000%=536;10.000000%=610;20.000000%=643;30.000000%=651;40.000000%=659;50.000000%=667;60.000000%=667;70.000000%=675;80.000000%=684;90.000000%=700;95.000000%=716;99.000000%=798;99.500000%=880;99.900000%=1073;99.950000%=1417;99.990000%=5799;0%=0;0%=0;0%=0;85;9914;675.135738;110.843231;185716;192347;99.852695%;189208.875000;1623.282020;1.416667%;90.963333%;42070;0;36;0.0%;0.0%;0.0%;0.0%;0.0%;100.0%;0.0%;0.00%;0.00%;0.00%;0.00%;0.00%;0.01%;0.10%;3.74%;94.20%;1.80%;0.13%;0.01%;0.02%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;sda;0;1613996;0;6;0;613471;613537;17.63%
+##### Disco aleat. escrita (fio 4k) (9/10)
+3;fio-3.41;teste;0;0;0;0;0;0;0;0;0.000000;0.000000;0;0;0.000000;0.000000;1.000000%=0;5.000000%=0;10.000000%=0;20.000000%=0;30.000000%=0;40.000000%=0;50.000000%=0;60.000000%=0;70.000000%=0;80.000000%=0;90.000000%=0;95.000000%=0;99.000000%=0;99.500000%=0;99.900000%=0;99.950000%=0;99.990000%=0;0%=0;0%=0;0%=0;0;0;0.000000;0.000000;0;0;0.000000%;0.000000;0.000000;5383248;179435;44857;30001;2;666;19.637632;8.011776;66;13624;693.233661;137.448876;1.000000%=391;5.000000%=544;10.000000%=618;20.000000%=659;30.000000%=667;40.000000%=684;50.000000%=692;60.000000%=708;70.000000%=716;80.000000%=733;90.000000%=765;95.000000%=823;99.000000%=921;99.500000%=978;99.900000%=1138;99.950000%=1335;99.990000%=7634;0%=0;0%=0;0%=0;90;13627;712.871302;138.166528;149021;187198;99.012084%;177662.333333;10459.208085;2.893333%;90.010000%;36215;0;36;0.0%;0.0%;0.0%;0.0%;0.0%;100.0%;0.0%;0.00%;0.00%;0.00%;0.00%;0.00%;0.01%;0.03%;3.34%;82.69%;13.55%;0.35%;0.01%;0.02%;0.01%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;sda;0;1565522;0;12;0;582310;582404;40.42%
+##### Disco aleat. escrita (fio 4k) (10/10)
+3;fio-3.41;teste;0;0;0;0;0;0;0;0;0.000000;0.000000;0;0;0.000000;0.000000;1.000000%=0;5.000000%=0;10.000000%=0;20.000000%=0;30.000000%=0;40.000000%=0;50.000000%=0;60.000000%=0;70.000000%=0;80.000000%=0;90.000000%=0;95.000000%=0;99.000000%=0;99.500000%=0;99.900000%=0;99.950000%=0;99.990000%=0;0%=0;0%=0;0%=0;0;0;0.000000;0.000000;0;0;0.000000%;0.000000;0.000000;5663528;188777;47193;30001;2;538;18.748958;5.482544;68;9580;658.914437;113.548880;1.000000%=370;5.000000%=544;10.000000%=610;20.000000%=643;30.000000%=651;40.000000%=659;50.000000%=667;60.000000%=675;70.000000%=675;80.000000%=692;90.000000%=700;95.000000%=716;99.000000%=798;99.500000%=864;99.900000%=1089;99.950000%=1433;99.990000%=5734;0%=0;0%=0;0%=0;90;9695;677.663450;113.995146;23393;194013;90.488483%;170821.444444;55325.641427;2.766667%;90.133333%;41607;0;36;0.0%;0.0%;0.0%;0.0%;0.0%;100.0%;0.0%;0.00%;0.00%;0.00%;0.00%;0.00%;0.01%;0.10%;3.63%;94.14%;1.96%;0.12%;0.01%;0.03%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;sda;0;1631044;0;14;0;613455;613528;21.98%
+##### Disco aleat. leitura (fio 4k) (1/10)
+3;fio-3.41;teste;0;0;6062972;202092;50522;30001;2;223;18.793671;14.957887;128;1339;614.144457;81.528094;1.000000%=440;5.000000%=485;10.000000%=514;20.000000%=544;30.000000%=569;40.000000%=593;50.000000%=610;60.000000%=634;70.000000%=651;80.000000%=684;90.000000%=716;95.000000%=749;99.000000%=823;99.500000%=847;99.900000%=913;99.950000%=937;99.990000%=1028;0%=0;0%=0;0%=0;139;1352;632.938087;82.586963;188010;210440;99.448978%;200978.428571;7305.173148;0;0;0;0;0;0;0.000000;0.000000;0;0;0.000000;0.000000;1.000000%=0;5.000000%=0;10.000000%=0;20.000000%=0;30.000000%=0;40.000000%=0;50.000000%=0;60.000000%=0;70.000000%=0;80.000000%=0;90.000000%=0;95.000000%=0;99.000000%=0;99.500000%=0;99.900000%=0;99.950000%=0;99.990000%=0;0%=0;0%=0;0%=0;0;0;0.000000;0.000000;0;0;0.000000%;0.000000;0.000000;2.220000%;97.773333%;289;0;36;0.0%;0.0%;0.0%;0.0%;0.0%;100.0%;0.0%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;0.01%;7.34%;87.36%;5.29%;0.01%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;sda;1777539;36;0;3;488435;19;488461;16.84%
+##### Disco aleat. leitura (fio 4k) (2/10)
+3;fio-3.41;teste;0;0;6143308;204770;51191;30001;2;348;18.695448;15.186194;62;4744;606.051958;86.426754;1.000000%=428;5.000000%=481;10.000000%=505;20.000000%=536;30.000000%=561;40.000000%=585;50.000000%=602;60.000000%=618;70.000000%=643;80.000000%=667;90.000000%=708;95.000000%=741;99.000000%=815;99.500000%=839;99.900000%=905;99.950000%=937;99.990000%=3162;0%=0;0%=0;0%=0;71;4747;624.747365;87.206271;187177;214879;99.669895%;204094.043478;6758.869173;0;0;0;0;0;0;0.000000;0.000000;0;0;0.000000;0.000000;1.000000%=0;5.000000%=0;10.000000%=0;20.000000%=0;30.000000%=0;40.000000%=0;50.000000%=0;60.000000%=0;70.000000%=0;80.000000%=0;90.000000%=0;95.000000%=0;99.000000%=0;99.500000%=0;99.900000%=0;99.950000%=0;99.990000%=0;0%=0;0%=0;0%=0;0;0;0.000000;0.000000;0;0;0.000000%;0.000000;0.000000;2.026667%;97.920000%;454;0;36;0.0%;0.0%;0.0%;0.0%;0.0%;100.0%;0.0%;0.00%;0.00%;0.00%;0.00%;0.00%;0.01%;0.01%;8.47%;87.31%;4.19%;0.01%;0.01%;0.01%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;sda;1756604;6;0;3;495336;22;495373;9.88%
+##### Disco aleat. leitura (fio 4k) (3/10)
+3;fio-3.41;teste;0;0;6056704;201883;50469;30001;3;275;18.864052;14.684869;142;1208;614.774387;76.749154;1.000000%=452;5.000000%=497;10.000000%=522;20.000000%=552;30.000000%=569;40.000000%=593;50.000000%=610;60.000000%=626;70.000000%=651;80.000000%=675;90.000000%=716;95.000000%=749;99.000000%=815;99.500000%=839;99.900000%=897;99.950000%=929;99.990000%=987;0%=0;0%=0;0%=0;151;1228;633.638364;77.710704;109073;208296;99.264390%;200397.928571;14091.859268;0;0;0;0;0;0;0.000000;0.000000;0;0;0.000000;0.000000;1.000000%=0;5.000000%=0;10.000000%=0;20.000000%=0;30.000000%=0;40.000000%=0;50.000000%=0;60.000000%=0;70.000000%=0;80.000000%=0;90.000000%=0;95.000000%=0;99.000000%=0;99.500000%=0;99.900000%=0;99.950000%=0;99.990000%=0;0%=0;0%=0;0%=0;0;0;0.000000;0.000000;0;0;0.000000%;0.000000;0.000000;2.116667%;97.970000%;73;0;36;0.0%;0.0%;0.0%;0.0%;0.0%;100.0%;0.0%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;0.01%;5.48%;89.85%;4.66%;0.01%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;sda;1762351;2;2;1;481808;7;481823;22.00%
+##### Disco aleat. leitura (fio 4k) (4/10)
+3;fio-3.41;teste;0;0;5956676;198549;49636;30001;2;259;19.288785;14.506447;148;1503;625.026888;80.312055;1.000000%=448;5.000000%=501;10.000000%=528;20.000000%=561;30.000000%=585;40.000000%=602;50.000000%=618;60.000000%=643;70.000000%=659;80.000000%=692;90.000000%=724;95.000000%=765;99.000000%=831;99.500000%=864;99.900000%=929;99.950000%=954;99.990000%=1036;0%=0;0%=0;0%=0;158;1594;644.315561;81.342002;179606;208900;99.965732%;198480.960784;6134.395693;0;0;0;0;0;0;0.000000;0.000000;0;0;0.000000;0.000000;1.000000%=0;5.000000%=0;10.000000%=0;20.000000%=0;30.000000%=0;40.000000%=0;50.000000%=0;60.000000%=0;70.000000%=0;80.000000%=0;90.000000%=0;95.000000%=0;99.000000%=0;99.500000%=0;99.900000%=0;99.950000%=0;99.990000%=0;0%=0;0%=0;0%=0;0;0;0.000000;0.000000;0;0;0.000000%;0.000000;0.000000;1.736667%;98.246667%;211;0;36;0.0%;0.0%;0.0%;0.0%;0.0%;100.0%;0.0%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;0.01%;4.90%;88.62%;6.46%;0.02%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;sda;1727940;27;0;6;472834;13;472855;3.27%
+##### Disco aleat. leitura (fio 4k) (5/10)
+3;fio-3.41;teste;0;0;5964856;198821;49704;30001;1;246;19.271642;14.823017;166;4266;624.165969;82.414074;1.000000%=456;5.000000%=501;10.000000%=528;20.000000%=561;30.000000%=577;40.000000%=602;50.000000%=618;60.000000%=634;70.000000%=659;80.000000%=684;90.000000%=724;95.000000%=757;99.000000%=831;99.500000%=864;99.900000%=937;99.950000%=970;99.990000%=1089;0%=0;0%=0;0%=0;195;4268;643.437561;83.298788;189587;205886;100.000000%;199568.800000;3909.613413;0;0;0;0;0;0;0.000000;0.000000;0;0;0.000000;0.000000;1.000000%=0;5.000000%=0;10.000000%=0;20.000000%=0;30.000000%=0;40.000000%=0;50.000000%=0;60.000000%=0;70.000000%=0;80.000000%=0;90.000000%=0;95.000000%=0;99.000000%=0;99.500000%=0;99.900000%=0;99.950000%=0;99.990000%=0;0%=0;0%=0;0%=0;0;0;0.000000;0.000000;0;0;0.000000%;0.000000;0.000000;1.630000%;98.320000%;316;0;36;0.0%;0.0%;0.0%;0.0%;0.0%;100.0%;0.0%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;0.01%;4.50%;89.18%;6.30%;0.02%;0.01%;0.01%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;sda;1729183;7;2;1;472544;9;472561;4.40%
+##### Disco aleat. leitura (fio 4k) (6/10)
+3;fio-3.41;teste;0;0;5914560;197145;49285;30001;3;244;19.272913;14.392054;69;1369;629.569822;81.288592;1.000000%=452;5.000000%=501;10.000000%=528;20.000000%=561;30.000000%=585;40.000000%=610;50.000000%=626;60.000000%=643;70.000000%=667;80.000000%=692;90.000000%=733;95.000000%=765;99.000000%=839;99.500000%=872;99.900000%=937;99.950000%=970;99.990000%=1056;0%=0;0%=0;0%=0;87;1395;648.842650;82.409052;178392;219400;100.000000%;197519.169492;8877.257547;0;0;0;0;0;0;0.000000;0.000000;0;0;0.000000;0.000000;1.000000%=0;5.000000%=0;10.000000%=0;20.000000%=0;30.000000%=0;40.000000%=0;50.000000%=0;60.000000%=0;70.000000%=0;80.000000%=0;90.000000%=0;95.000000%=0;99.000000%=0;99.500000%=0;99.900000%=0;99.950000%=0;99.990000%=0;0%=0;0%=0;0%=0;0;0;0.000000;0.000000;0;0;0.000000%;0.000000;0.000000;2.966667%;97.003333%;134;0;36;0.0%;0.0%;0.0%;0.0%;0.0%;100.0%;0.0%;0.00%;0.00%;0.00%;0.00%;0.00%;0.01%;0.01%;4.61%;88.13%;7.23%;0.03%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;sda;1722322;2;0;1;447398;8;447413;4.50%
+##### Disco aleat. leitura (fio 4k) (7/10)
+3;fio-3.41;teste;0;0;6048148;201598;50398;30001;2;311;18.932942;14.133782;57;4733;615.608799;80.952288;1.000000%=448;5.000000%=497;10.000000%=522;20.000000%=552;30.000000%=569;40.000000%=593;50.000000%=610;60.000000%=626;70.000000%=651;80.000000%=675;90.000000%=716;95.000000%=749;99.000000%=823;99.500000%=856;99.900000%=929;99.950000%=954;99.990000%=1056;0%=0;0%=0;0%=0;70;4747;634.541715;81.792933;193470;206859;100.000000%;201754.875000;4844.292472;0;0;0;0;0;0;0.000000;0.000000;0;0;0.000000;0.000000;1.000000%=0;5.000000%=0;10.000000%=0;20.000000%=0;30.000000%=0;40.000000%=0;50.000000%=0;60.000000%=0;70.000000%=0;80.000000%=0;90.000000%=0;95.000000%=0;99.000000%=0;99.500000%=0;99.900000%=0;99.950000%=0;99.990000%=0;0%=0;0%=0;0%=0;0;0;0.000000;0.000000;0;0;0.000000%;0.000000;0.000000;1.320000%;98.620000%;290;0;36;0.0%;0.0%;0.0%;0.0%;0.0%;100.0%;0.0%;0.00%;0.00%;0.00%;0.00%;0.00%;0.01%;0.01%;5.58%;89.48%;4.92%;0.02%;0.01%;0.01%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;sda;1619658;4;0;2;432545;8;432561;5.32%
+##### Disco aleat. leitura (fio 4k) (8/10)
+3;fio-3.41;teste;0;0;5851336;195038;48758;30001;2;348;19.635664;14.471756;172;6982;636.274437;87.734881;1.000000%=473;5.000000%=518;10.000000%=544;20.000000%=569;30.000000%=593;40.000000%=610;50.000000%=634;60.000000%=651;70.000000%=667;80.000000%=700;90.000000%=733;95.000000%=765;99.000000%=839;99.500000%=872;99.900000%=946;99.950000%=978;99.990000%=3358;0%=0;0%=0;0%=0;189;6984;655.910101;88.478114;17040;201641;96.936350%;189062.718750;31648.039762;0;0;0;0;0;0;0.000000;0.000000;0;0;0.000000;0.000000;1.000000%=0;5.000000%=0;10.000000%=0;20.000000%=0;30.000000%=0;40.000000%=0;50.000000%=0;60.000000%=0;70.000000%=0;80.000000%=0;90.000000%=0;95.000000%=0;99.000000%=0;99.500000%=0;99.900000%=0;99.950000%=0;99.990000%=0;0%=0;0%=0;0%=0;0;0;0.000000;0.000000;0;0;0.000000%;0.000000;0.000000;2.516667%;97.436667%;156;0;36;0.0%;0.0%;0.0%;0.0%;0.0%;100.0%;0.0%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;0.01%;2.79%;89.75%;7.43%;0.03%;0.01%;0.01%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;sda;1701512;35;0;2;450707;27;450755;8.68%
+##### Disco aleat. leitura (fio 4k) (9/10)
+3;fio-3.41;teste;0;0;5500920;183357;45838;30001;1;269;19.952520;14.366066;41;7458;677.692050;180.575679;1.000000%=485;5.000000%=536;10.000000%=561;20.000000%=593;30.000000%=610;40.000000%=634;50.000000%=651;60.000000%=675;70.000000%=700;80.000000%=724;90.000000%=774;95.000000%=839;99.000000%=1400;99.500000%=1794;99.900000%=2670;99.950000%=3129;99.990000%=4882;0%=0;0%=0;0%=0;54;7468;697.644568;180.333474;98824;203117;100.000000%;184602.118644;18898.634672;0;0;0;0;0;0;0.000000;0.000000;0;0;0.000000;0.000000;1.000000%=0;5.000000%=0;10.000000%=0;20.000000%=0;30.000000%=0;40.000000%=0;50.000000%=0;60.000000%=0;70.000000%=0;80.000000%=0;90.000000%=0;95.000000%=0;99.000000%=0;99.500000%=0;99.900000%=0;99.950000%=0;99.990000%=0;0%=0;0%=0;0%=0;0;0;0.000000;0.000000;0;0;0.000000%;0.000000;0.000000;4.516667%;91.820000%;5407;0;36;0.0%;0.0%;0.0%;0.0%;0.0%;100.0%;0.0%;0.00%;0.00%;0.00%;0.00%;0.01%;0.01%;0.03%;1.61%;83.63%;12.35%;2.05%;0.31%;0.03%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;sda;1590373;9;0;4;450302;28;450356;26.49%
+##### Disco aleat. leitura (fio 4k) (10/10)
+3;fio-3.41;teste;0;0;5946972;198225;49555;30001;1;403;19.290367;14.021990;50;7175;626.076311;94.153346;1.000000%=460;5.000000%=509;10.000000%=528;20.000000%=561;30.000000%=577;40.000000%=602;50.000000%=618;60.000000%=634;70.000000%=659;80.000000%=684;90.000000%=724;95.000000%=774;99.000000%=905;99.500000%=978;99.900000%=1253;99.950000%=1384;99.990000%=1679;0%=0;0%=0;0%=0;58;7177;645.366747;95.042323;50142;204815;95.335509%;188978.812500;37551.063597;0;0;0;0;0;0;0.000000;0.000000;0;0;0.000000;0.000000;1.000000%=0;5.000000%=0;10.000000%=0;20.000000%=0;30.000000%=0;40.000000%=0;50.000000%=0;60.000000%=0;70.000000%=0;80.000000%=0;90.000000%=0;95.000000%=0;99.000000%=0;99.500000%=0;99.900000%=0;99.950000%=0;99.990000%=0;0%=0;0%=0;0%=0;0;0;0.000000;0.000000;0;0;0.000000%;0.000000;0.000000;1.120000%;98.573333%;920;0;36;0.0%;0.0%;0.0%;0.0%;0.0%;100.0%;0.0%;0.00%;0.00%;0.00%;0.00%;0.00%;0.01%;0.01%;3.75%;89.42%;6.41%;0.40%;0.01%;0.01%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;0.00%;sda;1640309;31;0;2;451534;16;451560;7.96%
+##### Rede cliente->servidor (iperf3) (1/10)
+Connecting to host 192.168.1.93, port 5201
+[  5] local 192.168.1.131 port 33672 connected to 192.168.1.93 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-7.55   sec   850 MBytes   945 Mbits/sec  315    621 KBytes       (omitted)
+[  5]   0.00-1.00   sec   112 MBytes   941 Mbits/sec   45    543 KBytes       
+[  5]   1.00-2.01   sec   114 MBytes   943 Mbits/sec    0    686 KBytes       
+[  5]   2.01-8.87   sec   770 MBytes   941 Mbits/sec  225    638 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-8.87   sec   996 MBytes   941 Mbits/sec  270            sender
+[  5]   0.00-14.58  sec  1.60 GBytes   941 Mbits/sec                  receiver
+
+iperf Done.
+##### Rede cliente->servidor (iperf3) (2/10)
+Connecting to host 192.168.1.93, port 5201
+[  5] local 192.168.1.131 port 47850 connected to 192.168.1.93 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-2.82   sec   319 MBytes   949 Mbits/sec  180    587 KBytes       (omitted)
+[  5]   0.00-9.74   sec  1.07 GBytes   942 Mbits/sec  270    669 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-9.74   sec  1.07 GBytes   942 Mbits/sec  270            sender
+[  5]   0.00-10.60  sec  1.16 GBytes   941 Mbits/sec                  receiver
+
+iperf Done.
+##### Rede cliente->servidor (iperf3) (3/10)
+Connecting to host 192.168.1.93, port 5201
+[  5] local 192.168.1.131 port 49390 connected to 192.168.1.93 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.63   sec   186 MBytes   960 Mbits/sec  135    615 KBytes       (omitted)
+[  5]   1.63-4.10   sec   276 MBytes   938 Mbits/sec   90    527 KBytes       (omitted)
+[  5]   0.00-5.52   sec   620 MBytes   941 Mbits/sec  135    646 KBytes       
+[  5]   5.52-6.00   sec  54.8 MBytes   961 Mbits/sec    0    710 KBytes       
+[  5]   6.00-11.90  sec   661 MBytes   941 Mbits/sec  225    590 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-11.90  sec  1.31 GBytes   942 Mbits/sec  360            sender
+[  5]   0.00-14.03  sec  1.54 GBytes   941 Mbits/sec                  receiver
+
+iperf Done.
+##### Rede cliente->servidor (iperf3) (4/10)
+Connecting to host 192.168.1.93, port 5201
+[  5] local 192.168.1.131 port 38424 connected to 192.168.1.93 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.37   sec   157 MBytes   963 Mbits/sec  135    639 KBytes       (omitted)
+[  5]   1.37-3.80   sec   272 MBytes   939 Mbits/sec   90    503 KBytes       (omitted)
+[  5]   0.00-6.28   sec   706 MBytes   943 Mbits/sec  180    512 KBytes       
+[  5]   6.28-7.76   sec   165 MBytes   937 Mbits/sec    0    720 KBytes       
+[  5]   7.76-9.97   sec   248 MBytes   943 Mbits/sec   90    601 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-9.97   sec  1.09 GBytes   942 Mbits/sec  270            sender
+[  5]   0.00-11.80  sec  1.29 GBytes   941 Mbits/sec                  receiver
+
+iperf Done.
+##### Rede cliente->servidor (iperf3) (5/10)
+Connecting to host 192.168.1.93, port 5201
+[  5] local 192.168.1.131 port 55088 connected to 192.168.1.93 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   116 MBytes   971 Mbits/sec  135    510 KBytes       (omitted)
+[  5]   1.00-4.11   sec   349 MBytes   942 Mbits/sec   90    519 KBytes       (omitted)
+[  5]   0.00-2.07   sec   232 MBytes   939 Mbits/sec   45    601 KBytes       
+[  5]   2.07-3.00   sec   104 MBytes   936 Mbits/sec   45    561 KBytes       
+[  5]   3.00-4.08   sec   122 MBytes   949 Mbits/sec    0    707 KBytes       
+[  5]   4.08-16.70  sec  1.38 GBytes   941 Mbits/sec  540    556 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-16.70  sec  1.83 GBytes   941 Mbits/sec  630            sender
+[  5]   0.00-18.85  sec  2.07 GBytes   941 Mbits/sec                  receiver
+
+iperf Done.
+##### Rede cliente->servidor (iperf3) (6/10)
+Connecting to host 192.168.1.93, port 5201
+[  5] local 192.168.1.131 port 46026 connected to 192.168.1.93 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-3.16   sec   357 MBytes   949 Mbits/sec  180    604 KBytes       (omitted)
+[  5]   0.00-5.05   sec   567 MBytes   941 Mbits/sec  135    673 KBytes       
+[  5]   5.05-12.20  sec   802 MBytes   942 Mbits/sec  225    653 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-12.20  sec  1.34 GBytes   942 Mbits/sec  360            sender
+[  5]   0.00-13.44  sec  1.47 GBytes   941 Mbits/sec                  receiver
+
+iperf Done.
+##### Rede cliente->servidor (iperf3) (7/10)
+Connecting to host 192.168.1.93, port 5201
+[  5] local 192.168.1.131 port 52810 connected to 192.168.1.93 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-8.86   sec   998 MBytes   945 Mbits/sec  360    540 KBytes       (omitted)
+[  5]   0.00-4.73   sec   530 MBytes   941 Mbits/sec  135    547 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-4.73   sec   530 MBytes   941 Mbits/sec  135            sender
+[  5]   0.00-11.64  sec  1.28 GBytes   941 Mbits/sec                  receiver
+
+iperf Done.
+##### Rede cliente->servidor (iperf3) (8/10)
+Connecting to host 192.168.1.93, port 5201
+[  5] local 192.168.1.131 port 53108 connected to 192.168.1.93 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.01   sec   117 MBytes   970 Mbits/sec   90    734 KBytes       (omitted)
+[  5]   1.01-2.00   sec   111 MBytes   939 Mbits/sec   45    653 KBytes       (omitted)
+[  5]   0.00-1.03   sec   115 MBytes   942 Mbits/sec   45    571 KBytes       
+[  5]   1.03-2.01   sec   111 MBytes   946 Mbits/sec    0    708 KBytes       
+[  5]   2.01-3.00   sec   111 MBytes   941 Mbits/sec   45    636 KBytes       
+[  5]   3.00-4.00   sec   112 MBytes   933 Mbits/sec   45    679 KBytes       
+[  5]   4.00-5.00   sec   111 MBytes   936 Mbits/sec   45    604 KBytes       
+[  5]   5.00-6.00   sec   113 MBytes   945 Mbits/sec   45    522 KBytes       
+[  5]   6.00-7.00   sec   112 MBytes   944 Mbits/sec    0    666 KBytes       
+[  5]   7.00-8.01   sec   112 MBytes   935 Mbits/sec   45    595 KBytes       
+[  5]   8.01-9.02   sec   114 MBytes   941 Mbits/sec   45    512 KBytes       
+[  5]   9.02-10.00  sec   110 MBytes   939 Mbits/sec    0    656 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec  1.10 GBytes   941 Mbits/sec  315            sender
+[  5]   0.00-10.05  sec  1.10 GBytes   941 Mbits/sec                  receiver
+
+iperf Done.
+##### Rede cliente->servidor (iperf3) (9/10)
+Connecting to host 192.168.1.93, port 5201
+[  5] local 192.168.1.131 port 58794 connected to 192.168.1.93 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.01   sec   116 MBytes   963 Mbits/sec  135    515 KBytes       (omitted)
+[  5]   1.01-2.06   sec   119 MBytes   950 Mbits/sec    0    670 KBytes       (omitted)
+[  5]   0.00-9.06   sec  1016 MBytes   941 Mbits/sec  270    713 KBytes       
+[  5]   9.06-19.80  sec  1.18 GBytes   941 Mbits/sec  315    703 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-19.80  sec  2.17 GBytes   941 Mbits/sec  585            sender
+[  5]   0.00-19.93  sec  2.18 GBytes   941 Mbits/sec                  receiver
+
+iperf Done.
+##### Rede cliente->servidor (iperf3) (10/10)
+Connecting to host 192.168.1.93, port 5201
+[  5] local 192.168.1.131 port 37606 connected to 192.168.1.93 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-2.09   sec   238 MBytes   955 Mbits/sec  135    675 KBytes       (omitted)
+[  5]   0.00-1.63   sec   182 MBytes   936 Mbits/sec   45    687 KBytes       
+[  5]   1.63-2.02   sec  44.2 MBytes   950 Mbits/sec   45    526 KBytes       
+[  5]   2.02-3.01   sec   111 MBytes   938 Mbits/sec    0    669 KBytes       
+[  5]   3.01-4.01   sec   112 MBytes   940 Mbits/sec   45    597 KBytes       
+[  5]   4.01-5.03   sec   114 MBytes   937 Mbits/sec   45    519 KBytes       
+[  5]   5.03-6.02   sec   112 MBytes   944 Mbits/sec    0    665 KBytes       
+[  5]   6.02-7.01   sec   111 MBytes   939 Mbits/sec   45    583 KBytes       
+[  5]   7.01-8.02   sec   112 MBytes   936 Mbits/sec    0    718 KBytes       
+[  5]   8.02-9.01   sec   111 MBytes   945 Mbits/sec   45    642 KBytes       
+[  5]   9.01-9.92   sec   103 MBytes   942 Mbits/sec   45    556 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-9.92   sec  1.09 GBytes   941 Mbits/sec  315            sender
+[  5]   0.00-10.09  sec  1.11 GBytes   941 Mbits/sec                  receiver
+
+iperf Done.
+##### Rede servidor->cliente (iperf3) (1/10)
+Connecting to host 192.168.1.93, port 5201
+Reverse mode, remote host 192.168.1.93 is sending
+[  5] local 192.168.1.131 port 32916 connected to 192.168.1.93 port 5201
+[ ID] Interval           Transfer     Bitrate
+[  5]   0.00-1.01   sec   112 MBytes   931 Mbits/sec                  (omitted)
+[  5]   1.01-2.01   sec   113 MBytes   937 Mbits/sec                  (omitted)
+[  5]   0.00-1.79   sec   201 MBytes   938 Mbits/sec                  
+[  5]   1.79-4.04   sec   250 MBytes   937 Mbits/sec                  
+[  5]   4.04-18.86  sec  1.61 GBytes   933 Mbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-18.91  sec  2.06 GBytes   934 Mbits/sec    0            sender
+[  5]   0.00-18.86  sec  2.05 GBytes   934 Mbits/sec                  receiver
+
+iperf Done.
+##### Rede servidor->cliente (iperf3) (2/10)
+Connecting to host 192.168.1.93, port 5201
+Reverse mode, remote host 192.168.1.93 is sending
+[  5] local 192.168.1.131 port 45160 connected to 192.168.1.93 port 5201
+[ ID] Interval           Transfer     Bitrate
+[  5]   0.00-15.56  sec  1.70 GBytes   940 Mbits/sec                  (omitted)
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-13.68  sec  1.50 GBytes   940 Mbits/sec    0            sender
+[  5]   0.00-0.00   sec  0.00 Bytes  0.00 Mbits/sec                  receiver
+
+iperf Done.
+##### Rede servidor->cliente (iperf3) (3/10)
+Connecting to host 192.168.1.93, port 5201
+Reverse mode, remote host 192.168.1.93 is sending
+[  5] local 192.168.1.131 port 60692 connected to 192.168.1.93 port 5201
+[ ID] Interval           Transfer     Bitrate
+[  5]   0.00-1.00   sec   112 MBytes   937 Mbits/sec                  (omitted)
+[  5]   1.00-2.44   sec   161 MBytes   937 Mbits/sec                  (omitted)
+[  5]   0.00-2.37   sec   263 MBytes   933 Mbits/sec                  
+[  5]   2.37-3.00   sec  71.1 MBytes   938 Mbits/sec                  
+[  5]   3.00-4.02   sec   113 MBytes   937 Mbits/sec                  
+[  5]   4.02-5.01   sec   111 MBytes   936 Mbits/sec                  
+[  5]   5.01-7.49   sec   275 MBytes   932 Mbits/sec                  
+[  5]   7.49-10.14  sec   296 MBytes   937 Mbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.62  sec  1.16 GBytes   935 Mbits/sec    0            sender
+[  5]   0.00-10.14  sec  1.10 GBytes   935 Mbits/sec                  receiver
+
+iperf Done.
+##### Rede servidor->cliente (iperf3) (4/10)
+Connecting to host 192.168.1.93, port 5201
+Reverse mode, remote host 192.168.1.93 is sending
+[  5] local 192.168.1.131 port 48220 connected to 192.168.1.93 port 5201
+[ ID] Interval           Transfer     Bitrate
+[  5]   0.00-1.12   sec   125 MBytes   936 Mbits/sec                  (omitted)
+[  5]   1.12-2.00   sec  98.2 MBytes   933 Mbits/sec                  (omitted)
+[  5]   0.00-1.02   sec   114 MBytes   932 Mbits/sec                  
+[  5]   1.02-2.01   sec   110 MBytes   938 Mbits/sec                  
+[  5]   2.01-3.03   sec   114 MBytes   939 Mbits/sec                  
+[  5]   3.03-4.02   sec   111 MBytes   939 Mbits/sec                  
+[  5]   4.02-5.02   sec   112 MBytes   939 Mbits/sec                  
+[  5]   5.02-6.05   sec   116 MBytes   940 Mbits/sec                  
+[  5]   6.05-7.05   sec   112 MBytes   940 Mbits/sec                  
+[  5]   7.05-8.04   sec   112 MBytes   940 Mbits/sec                  
+[  5]   8.04-9.02   sec   110 MBytes   940 Mbits/sec                  
+[  5]   9.02-10.02  sec   112 MBytes   940 Mbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.08  sec  1.10 GBytes   938 Mbits/sec    0            sender
+[  5]   0.00-10.02  sec  1.10 GBytes   939 Mbits/sec                  receiver
+
+iperf Done.
+##### Rede servidor->cliente (iperf3) (5/10)
+Connecting to host 192.168.1.93, port 5201
+Reverse mode, remote host 192.168.1.93 is sending
+[  5] local 192.168.1.131 port 39844 connected to 192.168.1.93 port 5201
+[ ID] Interval           Transfer     Bitrate
+[  5]   0.00-1.86   sec   206 MBytes   931 Mbits/sec                  (omitted)
+[  5]   1.86-17.21  sec  1.67 GBytes   934 Mbits/sec                  (omitted)
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-15.25  sec  1.66 GBytes   934 Mbits/sec    0            sender
+[  5]   0.00-0.00   sec  0.00 Bytes  0.00 Mbits/sec                  receiver
+
+iperf Done.
+##### Rede servidor->cliente (iperf3) (6/10)
+Connecting to host 192.168.1.93, port 5201
+Reverse mode, remote host 192.168.1.93 is sending
+[  5] local 192.168.1.131 port 35884 connected to 192.168.1.93 port 5201
+[ ID] Interval           Transfer     Bitrate
+[  5]   0.00-12.77  sec  1.39 GBytes   932 Mbits/sec                  (omitted)
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.81  sec  1.17 GBytes   932 Mbits/sec   45            sender
+[  5]   0.00-0.00   sec  0.00 Bytes  0.00 Mbits/sec                  receiver
+
+iperf Done.
+##### Rede servidor->cliente (iperf3) (7/10)
+Connecting to host 192.168.1.93, port 5201
+Reverse mode, remote host 192.168.1.93 is sending
+[  5] local 192.168.1.131 port 59708 connected to 192.168.1.93 port 5201
+[ ID] Interval           Transfer     Bitrate
+[  5]   0.00-1.00   sec   112 MBytes   940 Mbits/sec                  (omitted)
+[  5]   1.00-2.04   sec   116 MBytes   940 Mbits/sec                  (omitted)
+[  5]   0.00-18.21  sec  1.99 GBytes   939 Mbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-18.37  sec  2.01 GBytes   939 Mbits/sec    0            sender
+[  5]   0.00-18.21  sec  1.99 GBytes   939 Mbits/sec                  receiver
+
+iperf Done.
+##### Rede servidor->cliente (iperf3) (8/10)
+Connecting to host 192.168.1.93, port 5201
+Reverse mode, remote host 192.168.1.93 is sending
+[  5] local 192.168.1.131 port 49662 connected to 192.168.1.93 port 5201
+[ ID] Interval           Transfer     Bitrate
+[  5]   0.00-13.80  sec  1.50 GBytes   936 Mbits/sec                  (omitted)
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-11.84  sec  1.29 GBytes   937 Mbits/sec    0            sender
+[  5]   0.00-0.00   sec  0.00 Bytes  0.00 Mbits/sec                  receiver
+
+iperf Done.
+##### Rede servidor->cliente (iperf3) (9/10)
+Connecting to host 192.168.1.93, port 5201
+Reverse mode, remote host 192.168.1.93 is sending
+[  5] local 192.168.1.131 port 59608 connected to 192.168.1.93 port 5201
+[ ID] Interval           Transfer     Bitrate
+[  5]   0.00-3.12   sec   345 MBytes   928 Mbits/sec                  (omitted)
+[  5]   0.00-1.03   sec   115 MBytes   937 Mbits/sec                  
+[  5]   1.03-4.76   sec   416 MBytes   935 Mbits/sec                  
+[  5]   4.76-9.52   sec   527 MBytes   930 Mbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.75  sec  1.17 GBytes   931 Mbits/sec    0            sender
+[  5]   0.00-9.52   sec  1.03 GBytes   933 Mbits/sec                  receiver
+
+iperf Done.
+##### Rede servidor->cliente (iperf3) (10/10)
+Connecting to host 192.168.1.93, port 5201
+Reverse mode, remote host 192.168.1.93 is sending
+[  5] local 192.168.1.131 port 46842 connected to 192.168.1.93 port 5201
+[ ID] Interval           Transfer     Bitrate
+[  5]   0.00-4.64   sec   515 MBytes   931 Mbits/sec                  (omitted)
+[  5]   0.00-2.04   sec   227 MBytes   935 Mbits/sec                  
+[  5]   2.04-3.00   sec   107 MBytes   933 Mbits/sec                  
+[  5]   3.00-4.00   sec   111 MBytes   934 Mbits/sec                  
+[  5]   4.00-5.00   sec   112 MBytes   935 Mbits/sec                  
+[  5]   5.00-6.00   sec   111 MBytes   933 Mbits/sec                  
+[  5]   6.00-7.00   sec   112 MBytes   935 Mbits/sec                  
+[  5]   7.00-7.36   sec  40.5 MBytes   935 Mbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.04  sec  1.09 GBytes   933 Mbits/sec    0            sender
+[  5]   0.00-7.36   sec   820 MBytes   935 Mbits/sec                  receiver
+
+iperf Done.
